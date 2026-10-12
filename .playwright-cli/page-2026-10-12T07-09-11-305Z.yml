@@ -1,0 +1,20 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - link "Resume" [ref=e4] [cursor=pointer]:
+      - /url: /resume.pdf
+    - region [ref=e7]:
+      - heading "Risa Augusta" [level=1] [ref=e8]
+      - paragraph [ref=e9]: Software
+      - paragraph [ref=e10]: Engineer
+      - img "3D avatar Risa melambaikan tangan dari layar laptop" [ref=e12]
+      - generic [ref=e13]:
+        - strong [ref=e14]: 5+ Years
+        - generic [ref=e15]: Experience
+      - generic [ref=e16]:
+        - strong [ref=e17]: 24+ Projects
+        - generic [ref=e18]: Completed
+      - generic [ref=e21]:
+        - strong [ref=e22]: Available
+        - generic [ref=e23]: for collaboration
+      - generic [aria-hidden] [ref=e24]: Augusta
+  - alert [ref=e25]

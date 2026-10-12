@@ -1,0 +1,1608 @@
+- generic [ref=e1]:
+  - link [aria-hidden] [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - text: Skip to main content
+  - banner [aria-hidden] [ref=e3]:
+    - navigation [ref=e4]:
+      - link [ref=e5] [cursor=pointer]:
+        - /url: /?trk=public_profile_nav-header-logo
+        - generic [ref=e6]: LinkedIn
+      - list [ref=e19]:
+        - listitem [ref=e20]:
+          - link [ref=e21] [cursor=pointer]:
+            - /url: https://www.linkedin.com/top-content?trk=public_profile_guest_nav_menu_topContent
+            - generic [ref=e25]: Top Content
+        - listitem [ref=e26]:
+          - link [ref=e27] [cursor=pointer]:
+            - /url: https://www.linkedin.com/pub/dir/+/+?trk=public_profile_guest_nav_menu_people
+            - generic [ref=e31]: People
+        - listitem [ref=e32]:
+          - link [ref=e33] [cursor=pointer]:
+            - /url: https://www.linkedin.com/learning/search?trk=public_profile_guest_nav_menu_learning
+            - generic [ref=e40]: Learning
+        - listitem [ref=e41]:
+          - link [ref=e42] [cursor=pointer]:
+            - /url: https://www.linkedin.com/jobs/jobs-in-gambir?trk=public_profile_guest_nav_menu_jobs
+            - generic [ref=e46]: Jobs
+        - listitem [ref=e47]:
+          - link [ref=e48] [cursor=pointer]:
+            - /url: https://www.linkedin.com/games?trk=public_profile_guest_nav_menu_games
+            - generic [ref=e52]: Games
+        - listitem [ref=e53]:
+          - link [ref=e54] [cursor=pointer]:
+            - /url: ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_nav_upsell&trk=public_profile_guest_nav_menu_windows
+            - generic [ref=e58]: Get the app
+      - generic [ref=e59]:
+        - link [ref=e60] [cursor=pointer]:
+          - /url: https://www.linkedin.com/login?session_redirect=https%3A%2F%2Fid%2Elinkedin%2Ecom%2Fin%2Frisaaugusta&fromSignIn=true&trk=public_profile_nav-header-signin
+          - text: Sign in
+        - link [ref=e61] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=risaaugusta&session_redirect=https%3A%2F%2Fid.linkedin.com%2Fin%2Frisaaugusta&trk=public_profile_nav-header-join
+          - text: Join now
+  - main [aria-hidden] [ref=e62]:
+    - generic [ref=e65]:
+      - generic [ref=e66]:
+        - figure [ref=e67]
+        - generic [ref=e70]:
+          - button [ref=e72] [cursor=pointer]
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - button [ref=e78] [cursor=pointer]:
+                - heading [level=1] [ref=e79]: Risa Augusta Murti
+              - heading [level=2] [ref=e80]: Software Engineer at PT Putera Perdana International | Alumna of Beasiswa Unggulan Kemendikbudristek RI
+              - heading [level=3] [ref=e81]:
+                - generic [ref=e82]:
+                  - text: Jakarta, Indonesia
+                  - generic [ref=e83]: ·
+                  - button [ref=e84] [cursor=pointer]: Contact Info
+                  - generic [ref=e85]: 1K followers · 500+ connections
+              - heading [level=4] [ref=e86]:
+                - button [ref=e93] [cursor=pointer]: See your mutual connections
+              - generic [ref=e94]:
+                - link [ref=e95] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=risaaugusta&trk=public_profile_top-card-primary-button-join-to-view-profile
+                  - text: Join to view profile
+                - button [ref=e97] [cursor=pointer]: Message
+            - generic [ref=e102]:
+              - link [ref=e104] [cursor=pointer]:
+                - /url: https://id.linkedin.com/company/pt-putera-perdana-international?trk=public_profile_topcard-current-company
+                - generic [ref=e106]: PT Putera Perdana International
+              - link [ref=e108] [cursor=pointer]:
+                - /url: https://id.linkedin.com/school/universitas-negeri-malang/?trk=public_profile_topcard-school
+                - generic [ref=e110]: Universitas Negeri Malang
+              - link [ref=e112] [cursor=pointer]:
+                - /url: https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Frisaaugusta%2Evercel%2Eapp%2F&urlhash=mQzi&trk=public_profile_topcard-website
+                - generic [ref=e113]: Personal Website
+          - button [ref=e116] [cursor=pointer]
+      - generic [ref=e120]:
+        - heading [level=2] [ref=e121]: About
+        - paragraph [ref=e124]: "A software engineer with 2+ yoe, emphasising user experience, cross-functional collaboration, and technical expertise in software development and project delivery. - Profile website: risaaugusta.vercel.app - Alter brain: www.instagram.com/risartwork.psd"
+      - generic [ref=e125]:
+        - heading [level=2] [ref=e126]: Activity
+        - heading [level=3] [ref=e127]: 1K followers
+        - generic [ref=e128]:
+          - generic [ref=e129]:
+            - tablist [ref=e130]:
+              - tab [selected] [ref=e131] [cursor=pointer]: Posts
+              - tab [ref=e132] [cursor=pointer]: Comments
+              - tab [ref=e133] [cursor=pointer]: Reactions
+            - tabpanel [ref=e134]:
+              - generic [ref=e135]:
+                - list [ref=e137]:
+                  - listitem [ref=e138]:
+                    - generic [ref=e139]:
+                      - generic [ref=e141]:
+                        - link [ref=e142] [cursor=pointer]:
+                          - /url: https://id.linkedin.com/in/risaaugusta?trk=public_profile__posts_face-pile-cta
+                          - generic [ref=e145]: Risa Augusta Murti reposted this
+                        - button [ref=e148] [cursor=pointer]
+                      - generic [ref=e149]:
+                        - link [ref=e150] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/fajar-falahiat_jadi-hari-ini-sebelum-pergi-salat-jumat-tiba-tiba-activity-7400528702431744000-9aI8
+                          - generic [ref=e151]: Risa Augusta Murti reposted this
+                        - generic [ref=e152]:
+                          - generic [ref=e154]:
+                            - link [ref=e155] [cursor=pointer]:
+                              - /url: https://id.linkedin.com/in/fajar-falahiat
+                              - generic [ref=e156]: Fajar Falahiat
+                            - generic [ref=e158]:
+                              - heading [level=3] [ref=e159]: Fajar Falahiat
+                              - generic [ref=e160]: 10mo
+                          - generic [ref=e161]:
+                            - link [ref=e162] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/fajar-falahiat_jadi-hari-ini-sebelum-pergi-salat-jumat-tiba-tiba-activity-7400528702431744000-9aI8
+                              - generic [ref=e163]: Risa Augusta Murti reposted this
+                            - generic [ref=e164]:
+                              - text: Jadi hari ini sebelum pergi salat Jumat tiba-tiba kepikiran "Gimana kalo apps Quran tapi pake UI Tiktok/Reels/Shorts yang pas load udah ada image/video + audio + caption terus bisa share ke IG Stories gitu kayak Spotify? Secara user sekarang lebih familiar sama format ini kan? Siapa tau formatnya lebih kasual jadi banyak yang coba baca/denger" (Khususnya untuk saya pribadi xd) Pulang jumatan, berbekal pertanyaan ini langsung coba tanya Google Search AI mode "udah ada belum sih apps serupa sama yg aku pikirin?". Surprisingly (according to Google Search AI mode) belum ada sama sekali (tolong kasih tau kalo ternyata udah ada ya) Langsung setup template Vite di
+                              - link [ref=e165] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/vercel?trk=public_profile__posts-text
+                                - text: Vercel
+                              - text: + pake
+                              - link [ref=e166] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/cursorai?trk=public_profile__posts-text
+                                - text: Cursor
+                              - text: "Agent dari browser hape. Ketik-ketik-ketik udah deh jadi: Qubites (Quran Bite Size)"
+                              - link [ref=e167] [cursor=pointer]:
+                                - /url: http://qubites.vercel.app?trk=public_profile__posts-text
+                                - text: qubites.vercel.app
+                              - text: Basically ini pake API
+                              - link [ref=e168] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/company/quranfoundation?trk=public_profile__posts-text
+                                - text: Quran.Foundation
+                              - text: "aja - get-random-ayah - get-ayah-recitation-for-specific-ayah - get-translation-for-specific-ayah Mind blown sih. Ini bikinnya sambil apply kerjaan, jemput kesana kemari, ngerjain hal lain, dari hape dan bisa langsung preview. Tentu aja masih ada beberapa bugs kayak: audionya gk ke load di first page load, recitation mode timingnya masih miss. Mungkin bakal dilanjut, tiap surat pas diklik bakal ke halaman profile/surat. Oh iya, tiap surat warna backgroundnya beda. Jadi ada 114 warna background ya. Edit: navigasinya persis ya: swipe up/down, hold buat pause Edit: mute/unmute tap aja sekali. Makasih"
+                              - link [ref=e169] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/fajar-falahiat_jadi-hari-ini-sebelum-pergi-salat-jumat-tiba-tiba-activity-7400528702431744000-9aI8
+                                - text: ...more
+                              - link [ref=e170] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/fajar-falahiat_jadi-hari-ini-sebelum-pergi-salat-jumat-tiba-tiba-activity-7400528702431744000-9aI8
+                                - text: ...more
+                      - generic [ref=e171]:
+                        - generic [ref=e172]:
+                          - link [ref=e173] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                            - generic [aria-hidden] [ref=e174]: "364"
+                          - link [ref=e175] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-comments
+                            - text: · 22 Comments
+                        - generic [ref=e176]:
+                          - link [ref=e178] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e181] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e184] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e185]:
+                    - generic [ref=e186]:
+                      - generic [ref=e188]:
+                        - link [ref=e189] [cursor=pointer]:
+                          - /url: https://id.linkedin.com/in/risaaugusta?trk=public_profile__posts_face-pile-cta
+                          - generic [ref=e192]: Risa Augusta Murti reposted this
+                        - button [ref=e195] [cursor=pointer]
+                      - generic [ref=e196]:
+                        - link [ref=e197] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/dinar-lathifah_ikan-besar-atau-ikan-kecil-activity-7379082187297566720-eys0
+                          - generic [ref=e198]: Risa Augusta Murti reposted this
+                        - generic [ref=e199]:
+                          - generic [ref=e201]:
+                            - link [ref=e202] [cursor=pointer]:
+                              - /url: https://id.linkedin.com/in/dinar-lathifah
+                              - generic [ref=e203]: Dinar Lathifah
+                            - generic [ref=e205]:
+                              - heading [level=3] [ref=e206]: Dinar Lathifah
+                              - generic [ref=e207]: 1y
+                          - generic [ref=e208]:
+                            - link [ref=e209] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/dinar-lathifah_ikan-besar-atau-ikan-kecil-activity-7379082187297566720-eys0
+                              - generic [ref=e210]: Risa Augusta Murti reposted this
+                            - generic [ref=e211]:
+                              - text: "["
+                              - link [ref=e212] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fdinartalks&trk=public_profile__posts-text
+                                - text: "#DinarTalks"
+                              - text: ": Ikan Besar atau Ikan Kecil?] Jadi ikan besar di kolam kecil, Atau ikan kecil di kolam besar? Ada yang bilang jadi ikan besar lebih enak, tapi lama-lama jadi stagnan. Ada juga yang bilang jadi ikan kecil lebih capek, tapi jadi cepet belajar. Dua-duanya nggak salah. Ternyata bukan ukuran kolamnya yang penting, Yang penting.. jangan berhenti berenang. Karena ikan yang terus berenang, pada akhirnya bisa bertahan di kolam manapun. ──────────────── Hai, aku Dinar Lala. Sering share cerita dan refleksi tentang realita karier Gen Z :) ⭐️ Temuin karier yang bermakna versi kamu disini! →"
+                              - link [ref=e213] [cursor=pointer]:
+                                - /url: https://lynk.id/dinarlala?trk=public_profile__posts-text
+                                - text: https://lynk.id/dinarlala
+                              - text: "⭐️ Instagram:"
+                              - link [ref=e214] [cursor=pointer]:
+                                - /url: https://lnkd.in/gTJHJMu3?trk=public_profile__posts-text
+                                - text: https://lnkd.in/gTJHJMu3
+                              - link [ref=e215] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/dinar-lathifah_ikan-besar-atau-ikan-kecil-activity-7379082187297566720-eys0
+                                - text: ...more
+                              - link [ref=e216] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/dinar-lathifah_ikan-besar-atau-ikan-kecil-activity-7379082187297566720-eys0
+                                - text: ...more
+                            - generic [ref=e217]:
+                              - link [ref=e218] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/dinar-lathifah_ikan-besar-atau-ikan-kecil-activity-7379082187297566720-eys0
+                                - generic [ref=e219]: public_profile__posts
+                              - iframe [ref=e220]
+                      - generic [ref=e221]:
+                        - generic [ref=e222]:
+                          - link [ref=e223] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                            - generic [aria-hidden] [ref=e224]: 3,945
+                          - link [ref=e225] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-comments
+                            - text: · 127 Comments
+                        - generic [ref=e226]:
+                          - link [ref=e228] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e231] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e234] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e235]:
+                    - generic [ref=e236]:
+                      - generic [ref=e238]:
+                        - link [ref=e239] [cursor=pointer]:
+                          - /url: https://id.linkedin.com/in/risaaugusta?trk=public_profile__posts_face-pile-cta
+                          - generic [ref=e242]: Risa Augusta Murti reposted this
+                        - button [ref=e245] [cursor=pointer]
+                      - generic [ref=e246]:
+                        - link [ref=e247] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/saedf_securityengineering-activity-7375839679910146048-PCD8
+                          - generic [ref=e248]: Risa Augusta Murti reposted this
+                        - generic [ref=e249]:
+                          - generic [ref=e251]:
+                            - link [ref=e252] [cursor=pointer]:
+                              - /url: https://uk.linkedin.com/in/saedf
+                              - generic [ref=e253]: saed ‎
+                            - generic [ref=e255]:
+                              - heading [level=3] [ref=e256]: saed ‎
+                              - generic [ref=e257]: 1y
+                          - generic [ref=e258]:
+                            - link [ref=e259] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/saedf_securityengineering-activity-7375839679910146048-PCD8
+                              - generic [ref=e260]: Risa Augusta Murti reposted this
+                            - generic [ref=e261]:
+                              - text: "Being a Senior Engineer means being less of a Junior Human. It’s not just about years or titles, it’s how you show up as a person and teammate: → Own impact, don’t seek applause. → Listen deeply before jumping in. → Lead with empathy, not ego. → Fix not just bugs, but broken team dynamics. → Push back thoughtfully and know when to adapt. → Stay steady when chaos hits, keep the flow smooth. → Turn jargon into clear, actionable plans. → Write docs that make tough ideas simple. → Share knowledge generously; don’t hoard credit. → Ask the tough questions that really matter. → Bring calm and order when everything feels messy. Being “senior” isn’t about a label, it’s about shedding junior habits and stepping up as a whole human. No matter how “senior” you are, there’s always something to learn, and someone to learn from. If you want to be a true senior, start by being less of a junior human. Because leadership is earned by how you act, not what your title says. What are some good traits you’ve seen in seniors you’ve worked with?"
+                              - link [ref=e262] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsecurityengineering&trk=public_profile__posts-text
+                                - text: "#securityengineering"
+                              - link [ref=e263] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/saedf_securityengineering-activity-7375839679910146048-PCD8
+                                - text: ...more
+                              - link [ref=e264] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/saedf_securityengineering-activity-7375839679910146048-PCD8
+                                - text: ...more
+                            - link [ref=e266] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/saedf_securityengineering-activity-7375839679910146048-PCD8
+                              - generic [ref=e267]: public_profile__posts
+                      - generic [ref=e272]:
+                        - generic [ref=e273]:
+                          - link [ref=e274] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                            - generic [aria-hidden] [ref=e275]: "652"
+                          - link [ref=e276] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-comments
+                            - text: · 18 Comments
+                        - generic [ref=e277]:
+                          - link [ref=e279] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e282] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e285] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e286]:
+                    - generic [ref=e287]:
+                      - generic [ref=e289]:
+                        - generic [ref=e290]:
+                          - link [ref=e291] [cursor=pointer]:
+                            - /url: https://id.linkedin.com/in/risaaugusta
+                            - generic [ref=e292]: Risa Augusta Murti
+                          - generic [ref=e294]:
+                            - heading [level=3] [ref=e295]: Risa Augusta Murti
+                            - generic [ref=e296]: 1y
+                        - button [ref=e299] [cursor=pointer]
+                      - generic [ref=e300]:
+                        - link [ref=e301] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/risaaugusta_vector-graphicdesign-adobephotoshop-activity-7301508333725720576-zOiD
+                          - generic [ref=e302]: Risa Augusta Murti shared this
+                        - generic [ref=e303]:
+                          - text: "[VECTOR ARTWORK] It’s been a while since I’ve been making any artwork, as I’ve mostly been using my left brain for daily tasks. Here’s my most recent vector update—rendered right after office hours for killing time during a break at night, keeping the right brain active. Playing along with posterized picture, pen tools, shapes, and color palette. - In frame: Michael Bolton (American singer and songwriter) - Tools: Adobe Photoshop CS6"
+                          - link [ref=e304] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fvector&trk=public_profile__posts-text
+                            - text: "#vector"
+                          - link [ref=e305] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fgraphicdesign&trk=public_profile__posts-text
+                            - text: "#graphicdesign"
+                          - link [ref=e306] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fadobephotoshop&trk=public_profile__posts-text
+                            - text: "#adobephotoshop"
+                          - link [ref=e307] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/posts/risaaugusta_vector-graphicdesign-adobephotoshop-activity-7301508333725720576-zOiD
+                            - text: ...more
+                        - link [ref=e309] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/risaaugusta_vector-graphicdesign-adobephotoshop-activity-7301508333725720576-zOiD
+                          - generic [ref=e310]: public_profile__posts
+                      - generic [ref=e315]:
+                        - link [ref=e317] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                          - generic [aria-hidden] [ref=e318]: "38"
+                        - generic [ref=e319]:
+                          - link [ref=e321] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e324] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e327] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e328]:
+                    - generic [ref=e329]:
+                      - generic [ref=e331]:
+                        - link [ref=e332] [cursor=pointer]:
+                          - /url: https://id.linkedin.com/in/risaaugusta?trk=public_profile__posts_face-pile-cta
+                          - generic [ref=e335]: Risa Augusta Murti reposted this
+                        - button [ref=e338] [cursor=pointer]
+                      - generic [ref=e339]:
+                        - link [ref=e340] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/muhammad-zaelani-ceolantabur_gajiku-yg-tak-pernah-cukup-gajiku-cuma-activity-7300660250301345793-KGCW
+                          - generic [ref=e341]: Risa Augusta Murti reposted this
+                        - generic [ref=e342]:
+                          - generic [ref=e344]:
+                            - link [ref=e345] [cursor=pointer]:
+                              - /url: https://id.linkedin.com/in/muhammad-zaelani-ceolantabur
+                              - generic [ref=e346]: Muhammad Zaelani (Coazh Z)
+                            - generic [ref=e348]:
+                              - heading [level=3] [ref=e349]: Muhammad Zaelani (Coazh Z)
+                              - generic [ref=e350]: 1y
+                          - generic [ref=e351]:
+                            - link [ref=e352] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/muhammad-zaelani-ceolantabur_gajiku-yg-tak-pernah-cukup-gajiku-cuma-activity-7300660250301345793-KGCW
+                              - generic [ref=e353]: Risa Augusta Murti reposted this
+                            - generic [ref=e354]:
+                              - text: "\"Gajiku yg tak pernah cukup\" Gajiku cuma 3 jtan, single, motor tua rusak jajan mulu, ngekost, kurang banget mau beli macam2. Lalu gajiku 5 jtan, single, hbs beli motor baru, br bs ngasih sedikit ke orang tua & sdr2, mau bwt jlan2 mikir 2x. Gajiku 10 jtan, seorang suami, mempunyai istri, 2 anak & orang tua, beli motor baru istri, beli mobil second, duuhhh kurang banget klo gaji segini. Gajiku 15 jtan, punya istri, 3 anak, & orang tua, mobil second jajan mulu, bayar kontrakan, belanja bulanan membengkak, dl. Gak cukup neh gajiku. Gajiku 20 jutaan, ada istri, 4 anak, ortu,biaya sekolah, beli mobil baru, beli motor baru 250 cc/lebih, kpr di perumahan agak wah, blm rekreasi anak,wah mana cukup gaji segini Gajiku 70 jutaan, menanggung istri, anak, ortu, biaya sekolah, modal usaha, beli pajero/alphard, kpr perumahan di pondok indah, jalan2 ke Luar Negri..WADUH GAK CUKUP BANGET.. \"Mau sampai kapan gaji kita tak pernah cukup, krn Allah telah mencukupkan kebutuhan kita, hanya kita yang selalu minta lebih lebih & menuruti keinginan diri kita. Dan (ingatlah juga), tatkala Rabbmu memaklumkan; “Sesungguhnya jika kamu bersyukur, pasti Kami akan menambah (nikmat) kepadamu, dan jika kamu mengingkari (nikmat-Ku), maka sesungguhnya azab-Ku sangat pedih” (QS. Ibrahim: 7). Padahal ketika Allah memberi kita kondisi tersulit apapun, kita mau tdk mau, suka tdk suka, kita bisa menerima & beradaptasi\" “Qanaah adalah al-iqtishaar ‘alal kafaaf, merasa cukup dengan yang sedikit.” (Diambil dari Mawsu’ah Nadhrah An-Na’iim, 8:3167-3168) Tetap Semangat, Bersyukur, Bersabarlah, & berdoalah. Dan jangan lupa sisihkan gajimu untuk bersedekah. “Pandanglah orang yang berada di bawahmu (dalam masalah harta dan dunia) dan janganlah engkau pandang orang yang berada di atasmu (dalam masalah ini). Dengan demikian, hal itu akan membuatmu tidak meremehkan nikmat Allah padamu.” (HR. Muslim, no. 2963) -----------------------------"
+                              - link [ref=e355] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/muhammad-zaelani-ceolantabur_gajiku-yg-tak-pernah-cukup-gajiku-cuma-activity-7300660250301345793-KGCW
+                                - text: ...more
+                              - link [ref=e356] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/muhammad-zaelani-ceolantabur_gajiku-yg-tak-pernah-cukup-gajiku-cuma-activity-7300660250301345793-KGCW
+                                - text: ...more
+                      - generic [ref=e357]:
+                        - generic [ref=e358]:
+                          - link [ref=e359] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                            - generic [aria-hidden] [ref=e360]: 4,429
+                          - link [ref=e361] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-comments
+                            - text: · 138 Comments
+                        - generic [ref=e362]:
+                          - link [ref=e364] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e367] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e370] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e371]:
+                    - generic [ref=e372]:
+                      - generic [ref=e374]:
+                        - link [ref=e375] [cursor=pointer]:
+                          - /url: https://id.linkedin.com/in/risaaugusta?trk=public_profile__posts_face-pile-cta
+                          - generic [ref=e378]: Risa Augusta Murti reposted this
+                        - button [ref=e381] [cursor=pointer]
+                      - generic [ref=e382]:
+                        - link [ref=e383] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/nikkisiapno_semver-explained-in-very-simple-terms-semantic-activity-7266029080980918272-A95B
+                          - generic [ref=e384]: Risa Augusta Murti reposted this
+                        - generic [ref=e385]:
+                          - generic [ref=e387]:
+                            - link [ref=e388] [cursor=pointer]:
+                              - /url: https://au.linkedin.com/in/nikkisiapno
+                              - generic [ref=e389]: Nikki Siapno
+                            - generic [ref=e391]:
+                              - heading [level=3] [ref=e392]: Nikki Siapno
+                              - generic [ref=e393]: 1y
+                          - generic [ref=e394]:
+                            - link [ref=e395] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/nikkisiapno_semver-explained-in-very-simple-terms-semantic-activity-7266029080980918272-A95B
+                              - generic [ref=e396]: Risa Augusta Murti reposted this
+                            - generic [ref=e397]:
+                              - text: "SemVer explained in very simple terms: Semantic versioning is a standardized way to communicate software upgrades. It categorizes changes into three buckets: 🔴 𝗠𝗮𝗷𝗼𝗿: Contains breaking changes that require users to upgrade their code or integration. 🟢 𝗠𝗶𝗻𝗼𝗿: Changes are backward-compatible. Typically extends functionality or improves performance. 🟣 𝗣𝗮𝘁𝗰𝗵: Contains bug fixes that don’t change existing functionality. 𝗣𝗿𝗼 𝘁𝗶𝗽: 𝗔 𝘀𝗶𝗺𝗽𝗹𝗶𝗳𝗶𝗲𝗱 𝗳𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗳𝗼𝗿 𝘁𝗵𝗶𝗻𝗸𝗶𝗻𝗴 𝗮𝗯𝗼𝘂𝘁 𝗦𝗲𝗺𝗩𝗲𝗿 𝗶𝘀 “𝗕𝗿𝗲𝗮𝗸𝗶𝗻𝗴.𝗙𝗲𝗮𝘁𝘂𝗿𝗲.𝗙𝗶𝘅”. SemVer provides an easy and clear way to communicate changes in software, which helps manage dependencies, plan releases, and troubleshoot problems. ~~ 📩 If you like this post, then you'll love our newsletter where we help you level up your engineering and system design skills. Subscribe here:"
+                              - link [ref=e398] [cursor=pointer]:
+                                - /url: https://lnkd.in/gCqFUtNz?trk=public_profile__posts-text
+                                - text: https://lnkd.in/gCqFUtNz
+                              - text: "Thank you to our partner Postman who keeps our content free to the community. Here are five valuable Postman tips you should know:"
+                              - link [ref=e399] [cursor=pointer]:
+                                - /url: https://lnkd.in/gMvmWi-r?trk=public_profile__posts-text
+                                - text: https://lnkd.in/gMvmWi-r
+                              - link [ref=e400] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/nikkisiapno_semver-explained-in-very-simple-terms-semantic-activity-7266029080980918272-A95B
+                                - text: ...more
+                              - link [ref=e401] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/nikkisiapno_semver-explained-in-very-simple-terms-semantic-activity-7266029080980918272-A95B
+                                - text: ...more
+                            - link [ref=e403] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/nikkisiapno_semver-explained-in-very-simple-terms-semantic-activity-7266029080980918272-A95B
+                              - generic [ref=e404]: public_profile__posts
+                      - generic [ref=e409]:
+                        - generic [ref=e410]:
+                          - link [ref=e411] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                            - generic [aria-hidden] [ref=e412]: "806"
+                          - link [ref=e413] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-comments
+                            - text: · 34 Comments
+                        - generic [ref=e414]:
+                          - link [ref=e416] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e419] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e422] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e423]:
+                    - generic [ref=e424]:
+                      - generic [ref=e426]:
+                        - link [ref=e427] [cursor=pointer]:
+                          - /url: https://id.linkedin.com/in/risaaugusta?trk=public_profile__posts_face-pile-cta
+                          - generic [ref=e430]: Risa Augusta Murti reposted this
+                        - button [ref=e433] [cursor=pointer]
+                      - generic [ref=e434]:
+                        - link [ref=e435] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/denayer_in-a-recent-mit-experiment-three-student-activity-7239162369115852802-mb3Q
+                          - generic [ref=e436]: Risa Augusta Murti reposted this
+                        - generic [ref=e437]:
+                          - generic [ref=e439]:
+                            - link [ref=e440] [cursor=pointer]:
+                              - /url: https://be.linkedin.com/in/denayer
+                              - generic [ref=e441]: Wouter Denayer
+                            - generic [ref=e443]:
+                              - heading [level=3] [ref=e444]: Wouter Denayer
+                              - generic [ref=e445]: 2y
+                          - generic [ref=e446]:
+                            - link [ref=e447] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/denayer_in-a-recent-mit-experiment-three-student-activity-7239162369115852802-mb3Q
+                              - generic [ref=e448]: Risa Augusta Murti reposted this
+                            - generic [ref=e449]:
+                              - text: "🔍 In a recent MIT experiment, three student teams were asked to write software code in Fortran, a programming language none of them knew. The results were pretty interesting: 🥇 The team using ChatGPT finished the fastest 🥈 The team using a specific AI coding assistant (Code Llama) came in second 🥉 The team using just Google search finished last, breaking down the task into components and solving it the old-fashioned way. However, when tested on their ability to recall the solutions from memory, the situation was reversed. The ChatGPT team remembered nothing and failed, while half of the Code Llama team passed, and every student in the Google Search team succeeded. 📚 This experiment underscores a crucial educational lesson: hard work, sweat, and some measure of frustration are essential for learning. Spoon-fed solutions don't stick, and it is the process itself of struggling through problems where the value is. 🤖 As AI coding tools become more available, the demand for developers who can effectively use these tools will grow. But it's clear that solid computer science skills are essential before you can make good use of AI. You will have to learn these the old-fashioned way. 💡 The conclusion from this experiment is simple: there is no substitute for hard work 😊 Don't just rely on AI tools; learn to code, crash, debug, and repeat. Your coding future depends on it."
+                              - link [ref=e450] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/in/jason-gulya?trk=public_profile__posts-text
+                                - text: Jason Gulya
+                              - link [ref=e451] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/denayer_in-a-recent-mit-experiment-three-student-activity-7239162369115852802-mb3Q
+                                - text: ...more
+                              - link [ref=e452] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/denayer_in-a-recent-mit-experiment-three-student-activity-7239162369115852802-mb3Q
+                                - text: ...more
+                            - link [ref=e454] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/denayer_in-a-recent-mit-experiment-three-student-activity-7239162369115852802-mb3Q
+                              - generic [ref=e455]: public_profile__posts
+                      - generic [ref=e460]:
+                        - generic [ref=e461]:
+                          - link [ref=e462] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                            - generic [aria-hidden] [ref=e463]: 11,025
+                          - link [ref=e464] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-comments
+                            - text: · 781 Comments
+                        - generic [ref=e465]:
+                          - link [ref=e467] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e470] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e473] [cursor=pointer]
+                  - listitem [aria-hidden] [ref=e474]:
+                    - generic [ref=e475]:
+                      - generic [ref=e477]:
+                        - link [ref=e478] [cursor=pointer]:
+                          - /url: https://id.linkedin.com/in/risaaugusta?trk=public_profile__posts_face-pile-cta
+                          - generic [ref=e481]: Risa Augusta Murti reposted this
+                        - button [ref=e484] [cursor=pointer]
+                      - generic [ref=e485]:
+                        - link [ref=e486] [cursor=pointer]:
+                          - /url: https://www.linkedin.com/posts/ariaseta_buat-ngecek-aplikasi-mana-aja-yang-pakai-activity-7234487746193424410-MneJ
+                          - generic [ref=e487]: Risa Augusta Murti reposted this
+                        - generic [ref=e488]:
+                          - generic [ref=e490]:
+                            - link [ref=e491] [cursor=pointer]:
+                              - /url: https://sa.linkedin.com/in/ariaseta
+                              - generic [ref=e492]: Ariaseta Setia Alam
+                            - generic [ref=e494]:
+                              - heading [level=3] [ref=e495]: Ariaseta Setia Alam
+                              - generic [ref=e496]: 2y
+                          - generic [ref=e497]:
+                            - link [ref=e498] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/ariaseta_buat-ngecek-aplikasi-mana-aja-yang-pakai-activity-7234487746193424410-MneJ
+                              - generic [ref=e499]: Risa Augusta Murti reposted this
+                            - generic [ref=e500]:
+                              - text: Buat Ngecek, Aplikasi Mana aja yang pakai Flutter Nemu aplikasi menarik di Play Store, namanya FlutterShark
+                              - link [ref=e501] [cursor=pointer]:
+                                - /url: https://lnkd.in/dUBhGkBR?trk=public_profile__posts-text
+                                - text: https://lnkd.in/dUBhGkBR
+                              - text: Kita bisa tahu, aplikasi apa aja di hp kita yg dibuat pakai flutter, sampai ke versinya, dan yang paling menarik, bisa ngecek juga, mereka pakai library apa aja.
+                              - link [ref=e502] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/ariaseta_buat-ngecek-aplikasi-mana-aja-yang-pakai-activity-7234487746193424410-MneJ
+                                - text: ...more
+                              - link [ref=e503] [cursor=pointer]:
+                                - /url: https://www.linkedin.com/posts/ariaseta_buat-ngecek-aplikasi-mana-aja-yang-pakai-activity-7234487746193424410-MneJ
+                                - text: ...more
+                            - link [ref=e505] [cursor=pointer]:
+                              - /url: https://www.linkedin.com/posts/ariaseta_buat-ngecek-aplikasi-mana-aja-yang-pakai-activity-7234487746193424410-MneJ
+                              - generic [ref=e506]: public_profile__posts
+                      - generic [ref=e511]:
+                        - generic [ref=e512]:
+                          - link [ref=e513] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-reactions
+                            - generic [aria-hidden] [ref=e514]: "867"
+                          - link [ref=e515] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_social-actions-comments
+                            - text: · 18 Comments
+                        - generic [ref=e516]:
+                          - link [ref=e518] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_like-cta
+                          - link [ref=e521] [cursor=pointer]:
+                            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile__posts_comment-cta
+                          - button [ref=e524] [cursor=pointer]
+                - button [ref=e526] [cursor=pointer]
+            - text: · · · · · · ·
+          - link [ref=e527] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?session_redirect=https%3A%2F%2Fwww%2Elinkedin%2Ecom%2Fin%2Frisaaugusta%2Frecent-activity%2F&trk=public_profile
+            - text: See all activities
+      - generic [ref=e528]:
+        - heading [level=2] [ref=e529]: Experience
+        - list [ref=e531]:
+          - listitem [ref=e532]:
+            - link [ref=e533] [cursor=pointer]:
+              - /url: https://id.linkedin.com/company/pt-putera-perdana-international?trk=public_profile_experience-item_profile-section-card_image-click
+            - generic [ref=e535]:
+              - heading [level=3] [ref=e536]: Full Stack Developer
+              - heading [level=4] [ref=e537]:
+                - link [ref=e538] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/company/pt-putera-perdana-international?trk=public_profile_experience-item_profile-section-card_subtitle-click
+                  - text: PT Putera Perdana International
+              - generic [ref=e539]:
+                - paragraph [ref=e540]:
+                  - generic [ref=e541]:
+                    - time [ref=e542]: Jan 2026
+                    - text: "- Present ·10 months"
+                - paragraph [ref=e543]: Jakarta, Indonesia
+                - paragraph [ref=e546]: Cameleo AI's engineering squad. (cameleo.ai)
+          - listitem [ref=e547]:
+            - link [ref=e548] [cursor=pointer]:
+              - /url: https://id.linkedin.com/company/bitcorpid?trk=public_profile_experience-item_profile-section-card_image-click
+            - generic [ref=e550]:
+              - heading [level=3] [ref=e551]: Mobile Developer
+              - heading [level=4] [ref=e552]:
+                - link [ref=e553] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/company/bitcorpid?trk=public_profile_experience-item_profile-section-card_subtitle-click
+                  - text: bitcorp. (PT. Bringin Inti Teknologi)
+              - generic [ref=e554]:
+                - paragraph [ref=e555]:
+                  - generic [ref=e556]:
+                    - time [ref=e557]: Jan 2024
+                    - text: "-"
+                    - time [ref=e558]: Jan 2026
+                    - text: ·2 years 1 month
+                - paragraph [ref=e559]: Jakarta, Indonesia
+                - paragraph [ref=e562]: • Developed Homespot App revamp version by BRI, Trackmate BRIBox, and ETWPAD app • Troubleshooting, bug-fixing, and code optimization • Contributed to daily scrum meetings and UAT phase with team updates • Working with GetX and BloC state management with clean architecture pattern • Responsible to app production and submission to Google Play Store, ensuring timely and successful releases
+          - listitem [ref=e563]:
+            - link [ref=e564] [cursor=pointer]:
+              - /url: https://id.linkedin.com/company/telekomunikasi-indonesia?trk=public_profile_experience-group-header
+              - generic [ref=e568]:
+                - heading [level=4] [ref=e569]: Telkom Indonesia
+                - paragraph [ref=e570]:
+                  - generic [ref=e571]: 5 months
+            - list [ref=e572]:
+              - listitem [ref=e573]:
+                - generic [ref=e574]:
+                  - heading [level=3] [ref=e575]: Frontend Web Developer
+                  - generic [ref=e576]:
+                    - paragraph [ref=e577]:
+                      - generic [ref=e578]:
+                        - time [ref=e579]: Apr 2023
+                        - text: "-"
+                        - time [ref=e580]: Jun 2023
+                        - text: ·3 months
+                    - paragraph [ref=e581]: Bandung, West Java, Indonesia
+                    - paragraph [ref=e584]: Placement @ Digital Amoeba • Developed and revamp Eventeer Website V2 • Developed Digital Amoeba landing page for the company showcase with stunning visuals and user interaction. • Troubleshooting and bug fixing to improve web performance. • Collaborated with stakeholders, UI/UX designers, system analyst, backend developers, QA, and DevOps team.
+              - listitem [ref=e585]:
+                - generic [ref=e586]:
+                  - heading [level=3] [ref=e587]: Mobile Developer
+                  - generic [ref=e588]:
+                    - paragraph [ref=e589]:
+                      - generic [ref=e590]:
+                        - time [ref=e591]: Feb 2023
+                        - text: "-"
+                        - time [ref=e592]: Apr 2023
+                        - text: ·3 months
+                    - paragraph [ref=e593]: Bandung, West Java, Indonesia
+                    - paragraph [ref=e596]: • Troubleshooting, bug-fixing, and code optimization the existing Eventeer App V1 using React Native and React Expo • Reducing app size ~20% by removing unnecessary function, code, and resources • Developed Eventeer App V2 using Flutter with GetX state management • Troubleshooting and bug fixing on Eventeer App V2 . • Collaborated with stakeholders, UI/UX designers, system analyst, backend developers, QA, and DevOps team.
+          - listitem [ref=e597]:
+            - link [ref=e598] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/mondelezinternational?trk=public_profile_experience-item_profile-section-card_image-click
+            - generic [ref=e600]:
+              - heading [level=3] [ref=e601]: Data Scientist
+              - heading [level=4] [ref=e602]:
+                - link [ref=e603] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/mondelezinternational?trk=public_profile_experience-item_profile-section-card_subtitle-click
+                  - text: Mondelēz International
+              - generic [ref=e604]:
+                - paragraph [ref=e605]:
+                  - generic [ref=e606]:
+                    - time [ref=e607]: Jan 2023
+                    - text: "-"
+                    - time [ref=e608]: Jan 2023
+                    - text: ·1 month
+                - paragraph [ref=e609]: Indonesia
+          - listitem [ref=e610]:
+            - link [ref=e611] [cursor=pointer]:
+              - /url: https://id.linkedin.com/school/universitas-negeri-malang/?trk=public_profile_experience-item_profile-section-card_image-click
+            - generic [ref=e613]:
+              - heading [level=3] [ref=e614]: Practicum Assistant
+              - heading [level=4] [ref=e615]:
+                - link [ref=e616] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/school/universitas-negeri-malang/?trk=public_profile_experience-item_profile-section-card_subtitle-click
+                  - text: Universitas Negeri Malang
+              - generic [ref=e617]:
+                - paragraph [ref=e618]:
+                  - generic [ref=e619]:
+                    - time [ref=e620]: Sep 2022
+                    - text: "-"
+                    - time [ref=e621]: Dec 2022
+                    - text: ·4 months
+                - paragraph [ref=e622]: Malang, East Java, Indonesia
+                - paragraph [ref=e625]: • Assisting Dr. Ir. Triyanna Widiyaningtyas, S.T. M.T. for Database and Information System course • Handled practicum for 90++ students
+          - listitem [ref=e626]:
+            - link [ref=e627] [cursor=pointer]:
+              - /url: https://id.linkedin.com/company/ardaworksid?trk=public_profile_experience-group-header
+              - generic [ref=e631]:
+                - heading [level=4] [ref=e632]: Ardaworks
+                - paragraph [ref=e633]:
+                  - generic [ref=e634]: 2 years 3 months
+            - list [ref=e635]:
+              - listitem [ref=e636]:
+                - generic [ref=e637]:
+                  - heading [level=3] [ref=e638]: Project Manager
+                  - generic [ref=e639]:
+                    - paragraph [ref=e640]:
+                      - generic [ref=e641]:
+                        - time [ref=e642]: Jan 2021
+                        - text: "-"
+                        - time [ref=e643]: Sep 2022
+                        - text: ·1 year 9 months
+                    - paragraph [ref=e644]: Jakarta, Indonesia
+                    - paragraph [ref=e647]: "• Finished 2 projects in 12 months that increasing 50.000++ user • Identified ticket task, acceptance criteria, DOD, and timeline for project development (Tools: Jira, Asana, Trello) • Scheduled and facilitated meetings between UI/UX designer, developer team, and QA to discuss deliverables, schedules and conflicts."
+              - listitem [ref=e648]:
+                - generic [ref=e649]:
+                  - heading [level=3] [ref=e650]: Junior Software Engineer
+                  - generic [ref=e651]:
+                    - paragraph [ref=e652]:
+                      - generic [ref=e653]:
+                        - time [ref=e654]: Jul 2020
+                        - text: "-"
+                        - time [ref=e655]: Apr 2021
+                        - text: ·10 months
+                    - paragraph [ref=e656]: Jakarta, Indonesia
+                    - paragraph [ref=e659]: • Developed mobile apps using Flutter • Contributed to daily scrum meetings with team updates • Supported UI/UX design
+          - listitem [ref=e660]:
+            - link [ref=e661] [cursor=pointer]:
+              - /url: https://id.linkedin.com/company/pt-harmoni-panca-utama?trk=public_profile_experience-item_profile-section-card_image-click
+            - generic [ref=e663]:
+              - heading [level=3] [ref=e664]: Junior Software Engineer
+              - heading [level=4] [ref=e665]:
+                - link [ref=e666] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/company/pt-harmoni-panca-utama?trk=public_profile_experience-item_profile-section-card_subtitle-click
+                  - text: PT Harmoni Panca Utama
+              - generic [ref=e667]:
+                - paragraph [ref=e668]:
+                  - generic [ref=e669]:
+                    - time [ref=e670]: Oct 2021
+                    - text: "-"
+                    - time [ref=e671]: May 2022
+                    - text: ·8 months
+                - paragraph [ref=e672]: Jakarta, Indonesia
+                - paragraph [ref=e675]: • Developed a synchronized fuel management system mobile app that impactful for 10++ mining site • Created various fuel transactions features, OTP auth, and QR code scanner using Flutter, REST APIs, and SQLite • Managing end to end development cycle for mobile • Collaborated closely with team leader and back end developer
+          - listitem [ref=e676]:
+            - generic [ref=e678]:
+              - heading [level=3] [ref=e679]: Frontend Developer
+              - heading [level=4] [ref=e680]: Codico.id
+              - generic [ref=e681]:
+                - paragraph [ref=e682]:
+                  - generic [ref=e683]:
+                    - time [ref=e684]: Aug 2019
+                    - text: "-"
+                    - time [ref=e685]: Sep 2019
+                    - text: ·2 months
+                - paragraph [ref=e686]: Probolinggo, East Java, Indonesia
+                - paragraph [ref=e689]: • Develop company profile website • Slicing PSD to HTML using bootstrap and Adobe Photoshop
+          - listitem [ref=e690]:
+            - link [ref=e691] [cursor=pointer]:
+              - /url: https://id.linkedin.com/company/gamatechno?trk=public_profile_experience-item_profile-section-card_image-click
+            - generic [ref=e693]:
+              - heading [level=3] [ref=e694]: Frontend Developer
+              - heading [level=4] [ref=e695]:
+                - link [ref=e696] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/company/gamatechno?trk=public_profile_experience-item_profile-section-card_subtitle-click
+                  - text: PT Gamatechno Indonesia
+              - generic [ref=e697]:
+                - paragraph [ref=e698]:
+                  - generic [ref=e699]:
+                    - time [ref=e700]: Jul 2019
+                    - text: "-"
+                    - time [ref=e701]: Sep 2019
+                    - text: ·3 months
+                - paragraph [ref=e702]: Yogyakarta, Indonesia
+                - paragraph [ref=e705]: • Developed Sistem Akademika website • Developed room inventory mobile apps • Working with GTFW (Gamatechno Framework) and Java native
+      - generic [ref=e706]:
+        - heading [level=2] [ref=e707]: Education
+        - list [ref=e709]:
+          - listitem [ref=e710]:
+            - link [ref=e711] [cursor=pointer]:
+              - /url: https://id.linkedin.com/school/universitas-negeri-malang/?trk=public_profile_school_profile-section-card_image-click
+            - generic [ref=e713]:
+              - heading [level=3] [ref=e714]:
+                - link [ref=e715] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/school/universitas-negeri-malang/?trk=public_profile_school
+                  - text: Universitas Negeri Malang
+              - heading [level=4] [ref=e716]: Bachelor's degree ·Informatics ·3.91
+              - generic [ref=e717]:
+                - paragraph [ref=e718]:
+                  - generic [ref=e719]:
+                    - time [ref=e720]: "2020"
+                    - text: "-"
+                    - time [ref=e721]: "2024"
+                - generic [ref=e722]:
+                  - paragraph [ref=e723]: "Activities and Societies: Workshop Elektro IT Division, GDSC, Ikatan Mahasiswa Berprestasi UM, Medkominfo PKM Center FT"
+                  - paragraph [ref=e725]: "- 2nd Best Graduate Faculty of Engineering - Awardee of Beasiswa Unggulan Kemendikbudristek RI - 3rd Winner of The Most Outstanding Student (Faculty of Engineering) - MSIB Kampus Merdeka Batch 4 participant - Partial-Funded Awardee of Asian Youth Exchange Program Chapter Turkey - Awardee of Research Funding Program Kreativitas Mahasiswa (PKM) - Hak Cipta Program Komputer - ID EC00202143203, ID EC00202374121, ID EC00202312282 - Top 30 Finalist International MAIoT Challenge"
+          - listitem [ref=e726]:
+            - link [ref=e727] [cursor=pointer]:
+              - /url: https://id.linkedin.com/school/smktelkommalang/?trk=public_profile_school_profile-section-card_image-click
+            - generic [ref=e729]:
+              - heading [level=3] [ref=e730]:
+                - link [ref=e731] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/school/smktelkommalang/?trk=public_profile_school
+                  - text: SMK Telkom Malang
+              - heading [level=4] [ref=e732]: Vocational High School ·Computer Software Engineering
+              - generic [ref=e733]:
+                - paragraph [ref=e734]:
+                  - generic [ref=e735]:
+                    - time [ref=e736]: "2017"
+                    - text: "-"
+                    - time [ref=e737]: "2020"
+                - generic [ref=e738]:
+                  - paragraph [ref=e739]: "Activities and Societies: Moklet Education of Technology and Informatic Club, LKS Internal"
+                  - paragraph [ref=e741]: "- (Gold medal) 1st Winner of Internet of Things Competition (National) - 1st Winner of Bahasa Indonesia Olympiad (East Java - Bali) - 2nd Winner of Indonesian Storytelling Competition (East Java)"
+      - generic [ref=e742]:
+        - heading [level=2] [ref=e743]: Licenses & Certifications
+        - list [ref=e745]:
+          - listitem [ref=e746]:
+            - link [ref=e747] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/sekolah-tinggi-manajemen-ppm?trk=public_profile_profile-section-card_image-click
+            - generic [ref=e749]:
+              - heading [level=3] [ref=e750]: Project Management
+              - heading [level=4] [ref=e751]:
+                - link [ref=e752] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sekolah-tinggi-manajemen-ppm?trk=public_profile_profile-section-card_subtitle-click
+                  - text: Sekolah Tinggi Manajemen PPM
+              - generic [ref=e755]:
+                - text: Issued
+                - time [ref=e756]: May 2026
+          - listitem [ref=e757]:
+            - link [ref=e758] [cursor=pointer]:
+              - /url: https://id.linkedin.com/school/binarbusiness/?trk=public_profile_profile-section-card_image-click
+            - generic [ref=e760]:
+              - heading [level=3] [ref=e761]:
+                - link [ref=e762] [cursor=pointer]:
+                  - /url: https://drive.google.com/file/d/14509PAdCs1G7x32R6E9-wHeOEaV2M6Z_/view?usp=sharing&trk=public_profile_certification-title
+                  - text: Quality Assurance Bootcamp
+              - heading [level=4] [ref=e763]:
+                - link [ref=e764] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/school/binarbusiness/?trk=public_profile_profile-section-card_subtitle-click
+                  - text: Binar Academy
+              - generic [ref=e765]:
+                - generic [ref=e767]:
+                  - text: Issued
+                  - time [ref=e768]: Oct 2022
+                - link [ref=e770] [cursor=pointer]:
+                  - /url: https://drive.google.com/file/d/14509PAdCs1G7x32R6E9-wHeOEaV2M6Z_/view?usp=sharing&trk=public_profile_see-credential
+                  - text: See credential
+          - listitem [ref=e771]:
+            - link [ref=e772] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/udemy?trk=public_profile_profile-section-card_image-click
+            - generic [ref=e774]:
+              - heading [level=3] [ref=e775]:
+                - link [ref=e776] [cursor=pointer]:
+                  - /url: https://drive.google.com/file/d/1VGdpJ106DOK2eh3N445QHUcr-pat9IHU/view?usp=sharing&trk=public_profile_certification-title
+                  - text: Training Scrum Lengkap dari dasar hingga Mahir
+              - heading [level=4] [ref=e777]:
+                - link [ref=e778] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/udemy?trk=public_profile_profile-section-card_subtitle-click
+                  - text: Udemy
+              - generic [ref=e779]:
+                - generic [ref=e781]:
+                  - text: Issued
+                  - time [ref=e782]: Jul 2022
+                - link [ref=e784] [cursor=pointer]:
+                  - /url: https://drive.google.com/file/d/1VGdpJ106DOK2eh3N445QHUcr-pat9IHU/view?usp=sharing&trk=public_profile_see-credential
+                  - text: See credential
+          - listitem [ref=e785]:
+            - link [ref=e786] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/microsoft?trk=public_profile_profile-section-card_image-click
+            - generic [ref=e788]:
+              - heading [level=3] [ref=e789]:
+                - link [ref=e790] [cursor=pointer]:
+                  - /url: https://www.youracclaim.com/badges/d7823ff2-346c-4cfd-8045-1cf0f7dbb45c?source=linked_in_profile&trk=public_profile_certification-title
+                  - text: "MTA: Software Development Fundamentals - Certified 2020"
+              - heading [level=4] [ref=e791]:
+                - link [ref=e792] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/microsoft?trk=public_profile_profile-section-card_subtitle-click
+                  - text: Microsoft
+              - generic [ref=e793]:
+                - generic [ref=e795]:
+                  - text: Issued
+                  - time [ref=e796]: Aug 2020
+                - link [ref=e798] [cursor=pointer]:
+                  - /url: https://www.youracclaim.com/badges/d7823ff2-346c-4cfd-8045-1cf0f7dbb45c?source=linked_in_profile&trk=public_profile_see-credential
+                  - text: See credential
+          - listitem [ref=e799]:
+            - link [ref=e800] [cursor=pointer]:
+              - /url: https://id.linkedin.com/company/dicoding?trk=public_profile_profile-section-card_image-click
+            - generic [ref=e802]:
+              - heading [level=3] [ref=e803]:
+                - link [ref=e804] [cursor=pointer]:
+                  - /url: https://www.dicoding.com/certificates/MEPJLE1WWZ3V?trk=public_profile_certification-title
+                  - text: Learn Git Basics with GitHub
+              - heading [level=4] [ref=e805]:
+                - link [ref=e806] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/company/dicoding?trk=public_profile_profile-section-card_subtitle-click
+                  - text: Dicoding Indonesia
+              - generic [ref=e807]:
+                - generic [ref=e808]:
+                  - generic [ref=e809]:
+                    - text: Issued
+                    - time [ref=e810]: Jul 2021
+                  - generic [ref=e811]:
+                    - text: · Expires
+                    - time [ref=e812]: Jul 2024
+                - generic [ref=e813]: Credential ID MEPJLE1WWZ3V
+                - link [ref=e815] [cursor=pointer]:
+                  - /url: https://www.dicoding.com/certificates/MEPJLE1WWZ3V?trk=public_profile_see-credential
+                  - text: See credential
+      - generic [ref=e816]:
+        - heading [level=2] [ref=e817]: Volunteer Experience
+        - list [ref=e819]:
+          - listitem [ref=e820]:
+            - link [ref=e821] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/developerstudents?trk=public_profile_volunteering-position_profile-section-card_image-click
+            - generic [ref=e823]:
+              - heading [level=3] [ref=e824]: Core Team
+              - heading [level=4] [ref=e825]:
+                - link [ref=e826] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/developerstudents?trk=public_profile_volunteering-position_profile-section-card_subtitle-click
+                  - text: Google Developer Student Clubs
+              - generic [ref=e827]:
+                - paragraph [ref=e828]:
+                  - generic [ref=e829]:
+                    - time [ref=e830]: Sep 2022
+                    - text: "-"
+                    - time [ref=e831]: Mar 2023
+                    - text: ·7 months
+                - paragraph [ref=e832]: Science and Technology
+                - paragraph [ref=e834]: As event manager handling event and coordinating technical team to ensure their duties can run well.
+          - listitem [ref=e835]:
+            - generic [ref=e837]:
+              - heading [level=3] [ref=e838]: PDD Team Leader
+              - heading [level=4] [ref=e839]: HMJ TE UM
+              - generic [ref=e840]:
+                - paragraph [ref=e841]:
+                  - generic [ref=e842]:
+                    - time [ref=e843]: May 2022
+                    - text: "-"
+                    - time [ref=e844]: Nov 2022
+                    - text: ·7 months
+                - paragraph [ref=e845]: Science and Technology
+                - paragraph [ref=e847]: Coordinating PDD (Publikasi dan Dokumentasi) team to ensure their duties can run well and handling design needs for Line Tracer & Design Competition National 2022
+          - listitem [ref=e848]:
+            - link [ref=e849] [cursor=pointer]:
+              - /url: https://id.linkedin.com/company/forum-nasional-beasiswa-unggulan?trk=public_profile_volunteering-position_profile-section-card_image-click
+            - generic [ref=e851]:
+              - heading [level=3] [ref=e852]: Beasiswa Unggulan Mentor
+              - heading [level=4] [ref=e853]:
+                - link [ref=e854] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/company/forum-nasional-beasiswa-unggulan?trk=public_profile_volunteering-position_profile-section-card_subtitle-click
+                  - text: Forum Awardee Beasiswa Unggulan
+              - generic [ref=e855]:
+                - paragraph [ref=e856]:
+                  - generic [ref=e857]:
+                    - time [ref=e858]: Jul 2021
+                    - text: "-"
+                    - time [ref=e859]: Aug 2021
+                    - text: ·2 months
+                - paragraph [ref=e860]: Education
+                - paragraph [ref=e862]: "- Assist the mentees for preparing scholarships applications - Essay proofreading"
+          - listitem [ref=e863]:
+            - link [ref=e864] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/metic-moklet?trk=public_profile_volunteering-position_profile-section-card_image-click
+            - generic [ref=e866]:
+              - heading [level=3] [ref=e867]: Project Leader
+              - heading [level=4] [ref=e868]:
+                - link [ref=e869] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/metic-moklet?trk=public_profile_volunteering-position_profile-section-card_subtitle-click
+                  - text: Metic Moklet
+              - generic [ref=e870]:
+                - paragraph [ref=e871]:
+                  - generic [ref=e872]:
+                    - time [ref=e873]: Nov 2018
+                    - text: "-"
+                    - time [ref=e874]: Dec 2018
+                    - text: ·2 months
+                - paragraph [ref=e875]: Science and Technology
+                - paragraph [ref=e877]: Placed as leader on Internal LKS event at SMK Telkom Malang
+          - listitem [ref=e878]:
+            - link [ref=e879] [cursor=pointer]:
+              - /url: https://www.linkedin.com/company/metic-moklet?trk=public_profile_volunteering-position_profile-section-card_image-click
+            - generic [ref=e881]:
+              - heading [level=3] [ref=e882]: Mentor
+              - heading [level=4] [ref=e883]:
+                - link [ref=e884] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/metic-moklet?trk=public_profile_volunteering-position_profile-section-card_subtitle-click
+                  - text: Metic Moklet
+              - generic [ref=e885]:
+                - paragraph [ref=e886]:
+                  - generic [ref=e887]:
+                    - time [ref=e888]: Sep 2018
+                    - text: "-"
+                    - time [ref=e889]: May 2019
+                    - text: ·9 months
+                - paragraph [ref=e890]: Science and Technology
+                - paragraph [ref=e892]: Mentoring the junior students in desktop programming class. But we learned together.
+          - listitem [ref=e893]:
+            - link [ref=e894] [cursor=pointer]:
+              - /url: https://id.linkedin.com/school/smktelkommalang/?trk=public_profile_volunteering-position_profile-section-card_image-click
+            - generic [ref=e896]:
+              - heading [level=3] [ref=e897]: Chairperson Candidate
+              - heading [level=4] [ref=e898]:
+                - link [ref=e899] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/school/smktelkommalang/?trk=public_profile_volunteering-position_profile-section-card_subtitle-click
+                  - text: SMK Telkom Malang
+              - generic [ref=e900]:
+                - paragraph [ref=e901]:
+                  - generic [ref=e902]:
+                    - time [ref=e903]: Oct 2018
+                    - text: "-"
+                    - time [ref=e904]: Oct 2018
+                    - text: ·1 month
+                - paragraph [ref=e905]: Education
+                - paragraph [ref=e907]: Selected as one of the OSIS chairperson candidates - Selected from CV selection - Selected as Top 5 Candidates for debate round - Selected as Top 3 Candidates for oration
+      - generic [ref=e908]:
+        - heading [level=2] [ref=e909]: Publications
+        - list [ref=e911]:
+          - listitem [ref=e912]:
+            - generic [ref=e913]:
+              - heading [level=3] [ref=e914]:
+                - link [ref=e915] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fieeexplore%2Eieee%2Eorg%2Fdocument%2F9616787%2Ffigures%23figures&urlhash=P2K2&trk=public_profile_publication-title
+                  - text: "Android-Based Dam Management and Monitoring System: Wireless Communication using Google Firebase"
+              - heading [level=4] [ref=e916]:
+                - text: IEEE
+                - generic [ref=e917]:
+                  - text: ·
+                  - time [ref=e919]: November 30, 2021
+              - generic [ref=e920]:
+                - generic [ref=e921]: Other authors
+                - list [ref=e922]:
+                  - listitem [ref=e923]:
+                    - link [ref=e924] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/bayuarivia?trk=public_profile_publication_contributor-image
+                  - listitem [ref=e926]
+                  - listitem [ref=e928]
+                  - listitem [ref=e930]
+                  - listitem [ref=e932]
+                - link [ref=e934] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fieeexplore%2Eieee%2Eorg%2Fdocument%2F9616787%2Ffigures%23figures&urlhash=P2K2&trk=public_profile_publication-button
+                  - text: See publication
+      - generic [ref=e935]:
+        - heading [level=2] [ref=e936]: Patents
+        - list [ref=e938]:
+          - listitem [ref=e939]:
+            - generic [ref=e940]:
+              - heading [level=3] [ref=e941]:
+                - link [ref=e942] [cursor=pointer]:
+                  - /url: https://pdki-indonesia.dgip.go.id/detail/3787dc58387a87d6fed1c57db4e4164aeecfd7264e9c03890350d74b3e0249de%3Fnomor=EC00202374121?type=copyright&keyword=EC00202374121&trk=public_profile_patent-title
+                  - text: Website Profil Desa Banjarejo
+              - heading [level=4] [ref=e943]:
+                - generic [ref=e944]:
+                  - text: Issued
+                  - time [ref=e945]: August 30, 2023
+                - text: ·ID EC00202374121
+              - generic [ref=e946]:
+                - paragraph [ref=e948]: https://banjarejo-pakismalang.vercel.app/ A profile website of Banjarejo Village, Malang. This web was issued as Community Service (KKN) product.
+                - link [ref=e949] [cursor=pointer]:
+                  - /url: https://pdki-indonesia.dgip.go.id/detail/3787dc58387a87d6fed1c57db4e4164aeecfd7264e9c03890350d74b3e0249de%3Fnomor=EC00202374121?type=copyright&keyword=EC00202374121&trk=public_profile_patent-button
+                  - text: See patent
+          - listitem [ref=e950]:
+            - generic [ref=e951]:
+              - heading [level=3] [ref=e952]:
+                - link [ref=e953] [cursor=pointer]:
+                  - /url: https://pdki-indonesia.dgip.go.id/detail/b56fb8d7bcc1b272d9f2cfd7a4d0a969ab1d79d9383c6163e240935e16946498%3Fnomor=EC00202312282?type=copyright&keyword=EC00202312282&trk=public_profile_patent-title
+                  - text: Mentalku V.1 (Sistem Diagnosa Level Stres Berbasis Probabilitas Menggunakan Rekam Medis Pengguna)
+              - heading [level=4] [ref=e954]:
+                - generic [ref=e955]:
+                  - text: Issued
+                  - time [ref=e956]: February 10, 2023
+                - text: ·ID EC00202312282
+              - generic [ref=e957]:
+                - paragraph [ref=e959]: MENTALKU is a desktop program that aims to map the user's stress level, especially in cases of anxiety disorders, based on the user's medical records.
+                - generic [ref=e960]: Other inventors
+                - list [ref=e961]:
+                  - listitem [ref=e962]:
+                    - link [ref=e963] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/fajruddinsyauqi?trk=public_profile_patent_contributor-image
+                - link [ref=e965] [cursor=pointer]:
+                  - /url: https://pdki-indonesia.dgip.go.id/detail/b56fb8d7bcc1b272d9f2cfd7a4d0a969ab1d79d9383c6163e240935e16946498%3Fnomor=EC00202312282?type=copyright&keyword=EC00202312282&trk=public_profile_patent-button
+                  - text: See patent
+          - listitem [ref=e966]:
+            - generic [ref=e967]:
+              - heading [level=3] [ref=e968]:
+                - link [ref=e969] [cursor=pointer]:
+                  - /url: https://pdki-indonesia.dgip.go.id/detail/03267be59bcc8874f413c5a8db62a4ec97c170c4c3451d6dd0af2825566fdd79%3Fnomor=EC00202143203?type=copyright&keyword=EC00202143203&trk=public_profile_patent-title
+                  - text: Cak Dam (Aplikasi Pemantauan Parameter Ketinggian Air, Kecepatan Arus Air, Curah Hujan, Dan Kontrol Pintu Air Pada Dam)
+              - heading [level=4] [ref=e970]:
+                - generic [ref=e971]:
+                  - text: Issued
+                  - time [ref=e972]: September 1, 2021
+                - text: ·ID EC00202143203
+              - generic [ref=e973]:
+                - generic [ref=e974]: Other inventors
+                - list [ref=e975]:
+                  - listitem [ref=e976]:
+                    - link [ref=e977] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/bayuarivia?trk=public_profile_patent_contributor-image
+                - link [ref=e979] [cursor=pointer]:
+                  - /url: https://pdki-indonesia.dgip.go.id/detail/03267be59bcc8874f413c5a8db62a4ec97c170c4c3451d6dd0af2825566fdd79%3Fnomor=EC00202143203?type=copyright&keyword=EC00202143203&trk=public_profile_patent-button
+                  - text: See patent
+      - generic [ref=e980]:
+        - heading [level=2] [ref=e981]: Projects
+        - list [ref=e983]:
+          - listitem [ref=e984]:
+            - generic [ref=e985]:
+              - heading [level=3] [ref=e986]: Cameleo AI - Enterprise Intelligence Platform (EIP)
+              - heading [level=4] [ref=e987]:
+                - generic [ref=e988]:
+                  - time [ref=e989]: Jan 2026
+                  - text: "- Present"
+          - listitem [ref=e990]:
+            - generic [ref=e991]:
+              - heading [level=3] [ref=e992]: Trackmate BRIBox
+              - heading [level=4] [ref=e993]:
+                - generic [ref=e994]:
+                  - time [ref=e995]: Dec 2024
+                  - text: "-"
+                  - time [ref=e996]: Nov 2025
+          - listitem [ref=e997]:
+            - generic [ref=e998]:
+              - heading [level=3] [ref=e999]: Homespot App
+              - heading [level=4] [ref=e1000]:
+                - generic [ref=e1001]:
+                  - time [ref=e1002]: Jan 2024
+                  - text: "-"
+                  - time [ref=e1003]: Oct 2024
+          - listitem [ref=e1004]:
+            - generic [ref=e1005]:
+              - heading [level=3] [ref=e1006]: Website Profil Desa Banjarejo
+              - heading [level=4] [ref=e1007]:
+                - generic [ref=e1008]:
+                  - time [ref=e1009]: Jul 2023
+                  - text: "-"
+                  - time [ref=e1010]: Jul 2023
+              - paragraph [ref=e1013]: Community Service (KKN) product.
+          - listitem [ref=e1014]:
+            - generic [ref=e1015]:
+              - heading [level=3] [ref=e1016]: Digital Amoeba Landing page
+              - heading [level=4] [ref=e1017]:
+                - generic [ref=e1018]:
+                  - time [ref=e1019]: Jun 2023
+                  - text: "-"
+                  - time [ref=e1020]: Jun 2023
+              - generic [ref=e1021]:
+                - paragraph [ref=e1023]: Corporate Innovation Lab by Telkom Indonesia that incubate and accelerate ideas from its employees which create digital products and digital talents.
+                - generic [ref=e1024]: Other creators
+                - list [ref=e1025]:
+                  - listitem [ref=e1026]:
+                    - link [ref=e1027] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/monica-davita?trk=public_profile_project_contributor-image
+                  - listitem [ref=e1029]:
+                    - link [ref=e1030] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/rivaldiagustinusns?trk=public_profile_project_contributor-image
+                  - listitem [ref=e1032]:
+                    - link [ref=e1033] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/farihfarhani?trk=public_profile_project_contributor-image
+                  - listitem [ref=e1035]:
+                    - link [ref=e1036] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/ravmhmmd?trk=public_profile_project_contributor-image
+                  - listitem [ref=e1038]:
+                    - link [ref=e1039] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/laidalavenia?trk=public_profile_project_contributor-image
+                  - listitem [ref=e1041]:
+                    - link [ref=e1042] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/reihan-manzis-syahputra/en?trk=public_profile_project_contributor-image
+          - listitem [ref=e1044]:
+            - generic [ref=e1045]:
+              - heading [level=3] [ref=e1046]: Eventeer Web V2
+              - heading [level=4] [ref=e1047]:
+                - generic [ref=e1048]:
+                  - time [ref=e1049]: Apr 2023
+                  - text: "-"
+                  - time [ref=e1050]: Jun 2023
+              - generic [ref=e1051]:
+                - paragraph [ref=e1053]: The All-In-One Event Website Platform for Event Organizer. Manage events, embrace the community and discover the potential to learn together with just one platform. Issued by Telkom Indonesia (Digital Amoeba).
+                - generic [ref=e1054]: Other creators
+                - list [ref=e1055]:
+                  - listitem [ref=e1056]:
+                    - link [ref=e1057] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/rivaldiagustinusns?trk=public_profile_project_contributor-image
+                  - listitem [ref=e1059]:
+                    - link [ref=e1060] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/monica-davita?trk=public_profile_project_contributor-image
+                  - listitem [ref=e1062]:
+                    - link [ref=e1063] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/farihfarhani?trk=public_profile_project_contributor-image
+                  - listitem [ref=e1065]:
+                    - link [ref=e1066] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/ravmhmmd?trk=public_profile_project_contributor-image
+          - listitem [ref=e1068]:
+            - generic [ref=e1069]:
+              - heading [level=3] [ref=e1070]: Eventeer App V2
+              - heading [level=4] [ref=e1071]:
+                - generic [ref=e1072]:
+                  - time [ref=e1073]: Mar 2023
+                  - text: "-"
+                  - time [ref=e1074]: Apr 2023
+              - generic [ref=e1075]:
+                - paragraph [ref=e1077]: The All-In-One Event Mobile Apps Platform for Event Organizer. Manage events, embrace the community and discover the potential to learn together with just one platform. Issued by Telkom Indonesia (Digital Amoeba).
+                - generic [ref=e1078]: Other creators
+                - list [ref=e1079]:
+                  - listitem [ref=e1080]:
+                    - link [ref=e1081] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/ravmhmmd?trk=public_profile_project_contributor-image
+                  - listitem [ref=e1083]:
+                    - link [ref=e1084] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/farihfarhani?trk=public_profile_project_contributor-image
+          - listitem [ref=e1086]:
+            - generic [ref=e1087]:
+              - heading [level=3] [ref=e1088]: Login App
+              - heading [level=4] [ref=e1089]:
+                - generic [ref=e1090]:
+                  - time [ref=e1091]: Oct 2021
+                  - text: "-"
+                  - time [ref=e1092]: May 2022
+              - paragraph [ref=e1095]: Login App (Logistic Interactive) app is a fuel management system mobile app powered by PT Harmoni Panca Utama.
+          - listitem [ref=e1096]:
+            - generic [ref=e1097]:
+              - heading [level=3] [ref=e1098]: Cak Dam
+              - heading [level=4] [ref=e1099]:
+                - generic [ref=e1100]:
+                  - time [ref=e1101]: May 2021
+                  - text: "-"
+                  - time [ref=e1102]: Sep 2021
+              - generic [ref=e1103]:
+                - paragraph [ref=e1105]: "Android-Based Dam Management and Monitoring System: Wireless Communication using Google Firebase"
+                - generic [ref=e1106]: Other creators
+                - list [ref=e1107]:
+                  - listitem [ref=e1108]
+                  - listitem [ref=e1110]:
+                    - link [ref=e1111] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/bayuarivia?trk=public_profile_project_contributor-image
+          - listitem [ref=e1113]:
+            - generic [ref=e1114]:
+              - heading [level=3] [ref=e1115]:
+                - link [ref=e1116] [cursor=pointer]:
+                  - /url: https://github.com/risaaugusta/Angkuts?trk=public_profile_project-title
+                  - text: Angkuts
+              - heading [level=4] [ref=e1117]:
+                - generic [ref=e1118]:
+                  - time [ref=e1119]: Apr 2021
+                  - text: "-"
+                  - time [ref=e1120]: Jun 2021
+              - generic [ref=e1121]:
+                - paragraph [ref=e1123]: Angkuts is an online platform for trash pick-up focusing in Malang area. The platform is made for digitizing the sanitation.
+                - link [ref=e1124] [cursor=pointer]:
+                  - /url: https://github.com/risaaugusta/Angkuts?trk=public_profile_project-button
+                  - text: See project
+          - listitem [ref=e1125]:
+            - generic [ref=e1126]:
+              - heading [level=3] [ref=e1127]:
+                - link [ref=e1128] [cursor=pointer]:
+                  - /url: https://github.com/risaaugusta/Cakkom?trk=public_profile_project-title
+                  - text: Cak Kom
+              - heading [level=4] [ref=e1129]:
+                - generic [ref=e1130]:
+                  - time [ref=e1131]: Nov 2020
+                  - text: "-"
+                  - time [ref=e1132]: Dec 2020
+              - generic [ref=e1133]:
+                - paragraph [ref=e1135]: CakKom is the education app for Organization and Architecture of Computer course. CakKom is the acronym of Cakrawala Komputer.
+                - link [ref=e1136] [cursor=pointer]:
+                  - /url: https://github.com/risaaugusta/Cakkom?trk=public_profile_project-button
+                  - text: See project
+          - listitem [ref=e1137]:
+            - generic [ref=e1138]:
+              - heading [level=3] [ref=e1139]: NU Online
+              - heading [level=4] [ref=e1140]:
+                - generic [ref=e1141]:
+                  - time [ref=e1142]: Sep 2020
+                  - text: "-"
+                  - time [ref=e1143]: Sep 2020
+          - listitem [ref=e1144]:
+            - generic [ref=e1145]:
+              - heading [level=3] [ref=e1146]: Trash.ly
+              - heading [level=4] [ref=e1147]:
+                - generic [ref=e1148]:
+                  - time [ref=e1149]: Dec 2019
+                  - text: "-"
+                  - time [ref=e1150]: Dec 2019
+              - generic [ref=e1151]:
+                - generic [ref=e1152]: Other creators
+                - list [ref=e1153]:
+                  - listitem [ref=e1154]:
+                    - link [ref=e1155] [cursor=pointer]:
+                      - /url: https://id.linkedin.com/in/faisal-affan?trk=public_profile_project_contributor-image
+          - listitem [ref=e1157]:
+            - generic [ref=e1158]:
+              - heading [level=3] [ref=e1159]: Risa's Profile
+              - heading [level=4] [ref=e1160]: "-"
+              - paragraph [ref=e1163]: My website profile
+      - generic [ref=e1164]:
+        - heading [level=2] [ref=e1165]: Honors & Awards
+        - list [ref=e1167]:
+          - listitem [ref=e1168]:
+            - generic [ref=e1169]:
+              - heading [level=3] [ref=e1170]: 2nd Best Graduate Faculty of Engineering
+              - heading [level=4] [ref=e1171]: Universitas Negeri Malang
+              - time [ref=e1174]: May 2024
+          - listitem [ref=e1175]:
+            - generic [ref=e1176]:
+              - heading [level=3] [ref=e1177]: 3rd Place The Most Outstanding Student
+              - heading [level=4] [ref=e1178]: Faculty of Engineering
+              - time [ref=e1181]: Mar 2022
+          - listitem [ref=e1182]:
+            - generic [ref=e1183]:
+              - heading [level=3] [ref=e1184]: Top 30 International Melaka AI of Things Challenge 2021 Finalist
+              - heading [level=4] [ref=e1185]: Universiti Teknikal Malaysia Melaka
+              - time [ref=e1188]: Dec 2021
+          - listitem [ref=e1189]:
+            - generic [ref=e1190]:
+              - heading [level=3] [ref=e1191]: Partial Funded Awardee Pertukaran Pemuda Asia Turki
+              - heading [level=4] [ref=e1192]: Event Hunter Indonesia
+              - generic [ref=e1193]:
+                - time [ref=e1195]: Nov 2021
+                - paragraph [ref=e1197]: Selected as one of 155 participants to go abroad to Turkey for youth exchange
+          - listitem [ref=e1198]:
+            - generic [ref=e1199]:
+              - heading [level=3] [ref=e1200]: Favorite Winner Vector Competition
+              - heading [level=4] [ref=e1201]: Universitas Bangka Belitung
+              - time [ref=e1204]: Oct 2020
+          - listitem [ref=e1205]:
+            - generic [ref=e1206]:
+              - heading [level=3] [ref=e1207]: Awardee Beasiswa Unggulan Kemendikbud RI 2020
+              - heading [level=4] [ref=e1208]: Kementerian Pendidikan dan Kebudayaan RI
+              - generic [ref=e1209]:
+                - time [ref=e1211]: "2020"
+                - paragraph [ref=e1213]: A full scholarship from Indonesian Ministry of Education and Culture. The full scholarship include tuiton fee, life costs, and book costs during my bachelor's degree.
+          - listitem [ref=e1214]:
+            - generic [ref=e1215]:
+              - heading [level=3] [ref=e1216]: 2nd Winner of Festival Bahasa dan Budaya
+              - heading [level=4] [ref=e1217]: Universitas Negeri Surabaya
+              - generic [ref=e1218]:
+                - time [ref=e1220]: Oct 2019
+                - paragraph [ref=e1222]: A storytelling competition about Indonesia's urban legend
+          - listitem [ref=e1223]:
+            - generic [ref=e1224]:
+              - heading [level=3] [ref=e1225]: 1st Winner of IoT Competition
+              - heading [level=4] [ref=e1226]: Telkom University
+              - generic [ref=e1227]:
+                - time [ref=e1229]: Sep 2018
+                - paragraph [ref=e1231]: "- Created flood monitoring mobile apps - Integrated data from sensor - Positioned as UI designer"
+          - listitem [ref=e1232]:
+            - generic [ref=e1233]:
+              - heading [level=3] [ref=e1234]: 1st Winner of Olimpiade Bahasa Indonesia
+              - heading [level=4] [ref=e1235]: Universitas Jember
+              - generic [ref=e1236]:
+                - time [ref=e1238]: Sep 2018
+                - paragraph [ref=e1240]: "- Stage 1: Writing test - Stage 2: Reading a newsletter - Stage 3: Storytelling"
+          - listitem [ref=e1241]:
+            - generic [ref=e1242]:
+              - heading [level=3] [ref=e1243]: Top 15 of BIONIX
+              - heading [level=4] [ref=e1244]: Institut Teknologi Sepuluh Nopember
+              - generic [ref=e1245]:
+                - time [ref=e1247]: Sep 2018
+                - paragraph [ref=e1249]: A business and IT olimpiad competition
+          - listitem [ref=e1250]:
+            - generic [ref=e1251]:
+              - heading [level=3] [ref=e1252]: Finalist of Vlog Competition
+              - heading [level=4] [ref=e1253]: STIKI Malang
+              - time [ref=e1256]: Nov 2017
+          - listitem [ref=e1257]:
+            - generic [ref=e1258]:
+              - heading [level=3] [ref=e1259]: 1st Winner of Vlog Competition
+              - heading [level=4] [ref=e1260]: Universitas Brawijaya
+              - generic [ref=e1261]:
+                - time [ref=e1263]: Oct 2017
+                - paragraph [ref=e1265]: Create marathon vlogs in a week
+      - generic [ref=e1266]:
+        - heading [level=2] [ref=e1267]: Test Scores
+        - list [ref=e1269]:
+          - listitem [ref=e1270]:
+            - generic [ref=e1271]:
+              - heading [level=3] [ref=e1272]: UKBing
+              - heading [level=4] [ref=e1273]: "Score: 524"
+              - time [ref=e1276]: Jan 2022
+          - listitem [ref=e1277]:
+            - generic [ref=e1278]:
+              - heading [level=3] [ref=e1279]: ECCT (English Communicative Competence Test)
+              - heading [level=4] [ref=e1280]: "Score: 750"
+              - time [ref=e1283]: Feb 2020
+      - generic [ref=e1284]:
+        - heading [level=2] [ref=e1285]: Recommendations received
+        - generic [ref=e1286]:
+          - list [ref=e1287]:
+            - listitem [ref=e1288]:
+              - link [ref=e1290] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/mahathiramnst?trk=public_profile_recommendations
+                - generic [ref=e1292]:
+                  - heading [level=3] [ref=e1293]: Mahathir Aldiafis Mochammad
+                  - paragraph [ref=e1295]: “Risa was one of my mentees at Telkom, and I had the pleasure of working closely with her on the Eventeer project. She demonstrated remarkable adaptability to the work environment and consistently excelled in collaboration, especially in communication. Risa’s ability to implement clean code practices significantly contributed to the project's success and made my work much easier. I highly recommend Risa for her professionalism, technical expertise, and strong teamwork skills—she would be a valuable asset to any team.”
+            - listitem [ref=e1296]:
+              - link [ref=e1298] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/dimasekam?trk=public_profile_recommendations
+                - generic [ref=e1300]:
+                  - heading [level=3] [ref=e1301]: Dimas Eka Mahendra Karsoma
+                  - paragraph [ref=e1303]: “Good at problem solving, collaborate with others and contribute to a positive work environment”
+          - generic [ref=e1304]:
+            - paragraph [ref=e1305]: 11 people have recommended Risa
+            - link [ref=e1306] [cursor=pointer]:
+              - /url: https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=risaaugusta&trk=public_profile_recommendations
+              - text: Join now to view
+      - generic [ref=e1309]:
+        - heading [level=2] [ref=e1310]: View Risa’s full profile
+        - list [ref=e1311]:
+          - listitem [ref=e1312]:
+            - generic [ref=e1315]: See who you know in common
+          - listitem [ref=e1316]:
+            - generic [ref=e1319]: Get introduced
+          - listitem [ref=e1320]:
+            - generic [ref=e1323]: Contact Risa directly
+        - link [ref=e1324] [cursor=pointer]:
+          - /url: https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=risaaugusta&trk=public_profile_bottom-cta-banner
+          - text: Join to view full profile
+    - generic [ref=e1325]:
+      - generic [ref=e1326]:
+        - heading [level=2] [ref=e1327]: Other similar profiles
+        - list [ref=e1329]:
+          - listitem [ref=e1330]:
+            - generic [ref=e1331]:
+              - link [ref=e1332] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/ryanpandu
+                - generic [ref=e1333]: Ryan Pandu
+              - generic [ref=e1335]:
+                - heading [level=3] [ref=e1336]: Ryan Pandu
+                - paragraph [ref=e1337]: KapanLagi Youniverse
+                - generic [ref=e1338]:
+                  - generic [ref=e1339]: 1K followers
+                  - generic [ref=e1340]: Jakarta Metropolitan Area
+                - link [ref=e1342] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/in/ryanpandu?trk=public_profile_browsemap_browse-map_connect-button
+                  - text: View Profile
+          - listitem [ref=e1343]:
+            - generic [ref=e1344]:
+              - link [ref=e1345] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/dwiaryasa
+                - generic [ref=e1346]: Kadek Dwi Aryasa
+              - generic [ref=e1348]:
+                - heading [level=3] [ref=e1349]: Kadek Dwi Aryasa
+                - paragraph [ref=e1350]: Aviaco GSE
+                - generic [ref=e1351]:
+                  - generic [ref=e1352]: 274 followers
+                  - generic [ref=e1353]: Klungkung
+                - link [ref=e1355] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/in/dwiaryasa?trk=public_profile_browsemap_browse-map_connect-button
+                  - text: View Profile
+          - listitem [ref=e1356]:
+            - generic [ref=e1357]:
+              - link [ref=e1358] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/awalariansyah
+                - generic [ref=e1359]: Awal A.
+              - generic [ref=e1361]:
+                - heading [level=3] [ref=e1362]: Awal A.
+                - paragraph [ref=e1363]: PT. Perkasa Pilar Utama
+                - generic [ref=e1364]:
+                  - generic [ref=e1365]: 1K followers
+                  - generic [ref=e1366]: Sleman
+                - link [ref=e1368] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/in/awalariansyah?trk=public_profile_browsemap_browse-map_connect-button
+                  - text: View Profile
+          - listitem [ref=e1369]:
+            - generic [ref=e1370]:
+              - link [ref=e1371] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/nuradli
+                - generic [ref=e1372]: Nur Adli
+              - generic [ref=e1374]:
+                - heading [level=3] [ref=e1375]: Nur Adli
+                - paragraph [ref=e1376]: Persada Teknologi Mandiri
+                - generic [ref=e1377]:
+                  - generic [ref=e1378]: 442 followers
+                  - generic [ref=e1379]: Jakarta
+                - link [ref=e1381] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/in/nuradli?trk=public_profile_browsemap_browse-map_connect-button
+                  - text: View Profile
+          - listitem [ref=e1382]:
+            - generic [ref=e1383]:
+              - link [ref=e1384] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/fahrulfirdaus
+                - generic [ref=e1385]: Fahrul Firdaus
+              - generic [ref=e1387]:
+                - heading [level=3] [ref=e1388]: Fahrul Firdaus
+                - paragraph [ref=e1389]: BitHealth
+                - generic [ref=e1390]:
+                  - generic [ref=e1391]: 154 followers
+                  - generic [ref=e1392]: Tangerang
+                - link [ref=e1394] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/in/fahrulfirdaus?trk=public_profile_browsemap_browse-map_connect-button
+                  - text: View Profile
+          - listitem [ref=e1395]:
+            - generic [ref=e1396]:
+              - link [ref=e1397] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/iqbal-syahrul-siddiq
+                - generic [ref=e1398]: Iqbal Syahrul Siddiq
+              - generic [ref=e1400]:
+                - heading [level=3] [ref=e1401]: Iqbal Syahrul Siddiq
+                - paragraph [ref=e1402]: MAPID
+                - generic [ref=e1403]:
+                  - generic [ref=e1404]: 587 followers
+                  - generic [ref=e1405]: Bandung
+                - link [ref=e1407] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/in/iqbal-syahrul-siddiq?trk=public_profile_browsemap_browse-map_connect-button
+                  - text: View Profile
+          - listitem [ref=e1408]:
+            - generic [ref=e1409]:
+              - link [ref=e1410] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/george-william-093492169
+                - generic [ref=e1411]: George William
+              - generic [ref=e1413]:
+                - heading [level=3] [ref=e1414]: George William
+                - paragraph [ref=e1415]: OCBC Indonesia
+                - generic [ref=e1416]:
+                  - generic [ref=e1417]: 432 followers
+                  - generic [ref=e1418]: Banten, Indonesia
+                - link [ref=e1420] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/in/george-william-093492169?trk=public_profile_browsemap_browse-map_connect-button
+                  - text: View Profile
+          - listitem [ref=e1421]:
+            - generic [ref=e1422]:
+              - link [ref=e1423] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/muhammad-masruhin-82a2a813a
+                - generic [ref=e1424]: Muhammad Masruhin
+              - generic [ref=e1426]:
+                - heading [level=3] [ref=e1427]: Muhammad Masruhin
+                - paragraph [ref=e1428]: Dinas Perhubungan Kota Surabaya
+                - generic [ref=e1429]:
+                  - generic [ref=e1430]: 313 followers
+                  - generic [ref=e1431]: Surabaya
+                - link [ref=e1433] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/in/muhammad-masruhin-82a2a813a?trk=public_profile_browsemap_browse-map_connect-button
+                  - text: View Profile
+          - listitem [ref=e1434]:
+            - generic [ref=e1435]:
+              - link [ref=e1436] [cursor=pointer]:
+                - /url: https://id.linkedin.com/in/andhika-ardhiansyah-arifin
+                - generic [ref=e1437]: Andhika Ardhiansyah Arifin
+              - generic [ref=e1439]:
+                - heading [level=3] [ref=e1440]: Andhika Ardhiansyah Arifin
+                - paragraph [ref=e1441]: PT. Transfarma Medica
+                - generic [ref=e1442]:
+                  - generic [ref=e1443]: 196 followers
+                  - generic [ref=e1444]: Yogyakarta, Indonesia
+                - link [ref=e1446] [cursor=pointer]:
+                  - /url: https://id.linkedin.com/in/andhika-ardhiansyah-arifin?trk=public_profile_browsemap_browse-map_connect-button
+                  - text: View Profile
+      - generic [ref=e1447]:
+        - heading [level=2] [ref=e1448]: Explore more posts
+        - list [ref=e1450]:
+          - listitem [ref=e1451]:
+            - generic [ref=e1452]:
+              - link [ref=e1453] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/codemayatest?trk=public_profile_relatedPosts_face-pile-cta
+                - generic [ref=e1456]:
+                  - paragraph [ref=e1457]: codemayatest
+                  - paragraph [ref=e1458]: 2 followers
+              - link [ref=e1459] [cursor=pointer]:
+                - /url: https://www.linkedin.com/posts/codemayatest_projectmanagement-softwaredevelopment-activity-7433371169803710464-5Xb9?trk=public_profile_relatedPosts
+                - generic [ref=e1460]:
+                  - paragraph [ref=e1461]: "Navigating the complexities of custom software development demands impeccable project management. At CodeMaya, our Development Team exemplifies how strategic tool adoption can transform project delivery and foster unparalleled transparency. 🚀 Our developers leverage Trello not just as a task manager, but as a dynamic command center for every project, from initial design to final deployment. Each client project gets its dedicated board, segmented into lists like \"Backlog,\" \"Sprint Planning,\" \"In Progress,\" \"Code Review,\" \"Testing,\" and \"Done.\" This visual workflow provides an immediate, real-time snapshot of project status, ensuring everyone, including our clients, is always aligned. Features like custom fields for story points and due dates, alongside power-ups for seamless GitHub integration, streamline our agile sprints. This approach significantly reduces communication overhead and accelerates decision-making. ✅ The real power lies in the transparency and accountability Trello cultivates. Every task, bug, and feature request becomes a card with assigned members, checklists for sub-tasks, and comment threads for detailed discussions. This eliminates information silos and ensures that progress is consistently visible. We've seen a noticeable improvement in our sprint completion rates and client satisfaction, directly attributable to this structured, collaborative environment. It’s about delivering secure, scalable solutions with clear, measurable outcomes. 💡 How are you empowering your teams to manage complex projects with such clarity and efficiency? We'd love to hear your insights! #ProjectManagement #SoftwareDevelopment #Trello #Agile #CodeMaya What are your thoughts on this?"
+                  - generic [aria-hidden] [ref=e1465]: "1"
+          - listitem [ref=e1468]:
+            - generic [ref=e1469]:
+              - link [ref=e1470] [cursor=pointer]:
+                - /url: https://ng.linkedin.com/company/kinplustech?trk=public_profile_relatedPosts_face-pile-cta
+                - generic [ref=e1473]:
+                  - paragraph [ref=e1474]: Kinplus Technologies
+                  - paragraph [ref=e1475]: 844 followers
+              - link [ref=e1476] [cursor=pointer]:
+                - /url: https://www.linkedin.com/posts/kinplustech_techjourney-uiuxdesign-womenintech-activity-7497969262855086081-kcpS?trk=public_profile_relatedPosts
+                - generic [ref=e1477]:
+                  - paragraph [ref=e1478]: "From Zero Experience to UI/UX Designer: Waliyat's Tech Journey! Starting something new can feel overwhelming. Like many beginners, Waliyat stepped into Kinplus Technologies with little to no background in tech. But she had one thing that mattered most: the willingness to learn and grow. In this video, she takes us through her transformation from a complete beginner to confidently designing user-friendly interfaces using Figma. What Tech Education Really Takes: ° Curiosity over Perfection: You don’t need to know everything before you start; you just need to start. ° The Right Environment: Learning is faster and more enjoyable when you have a supportive community, structured guidance, and hands-on practice with tools like wireframing, prototyping, and design thinking. ° Consistent Practice: Master the fundamentals from problem validation to visual design step by step. Ready to write your own tech success story just like Waliyat? Whether your passion lies in UI/UX Product Design, Software Development, Data Analysis, Data marketing or Cybersecurity, Kinplus Technologies provides the hands-on training and mentorship you need to build a future in tech! #TechJourney #UIUXDesign #WomenInTech #LearnToCode #TechCommunity"
+                  - generic [ref=e1480]:
+                    - generic [aria-hidden] [ref=e1482]: "13"
+                    - generic [ref=e1483]: · 3 Comments
+      - generic [ref=e1488]:
+        - heading [level=2] [ref=e1490]: Explore top content on LinkedIn
+        - paragraph [ref=e1491]: Find curated posts and insights for relevant topics all in one place.
+        - link [ref=e1492] [cursor=pointer]:
+          - /url: https://www.linkedin.com/top-content/
+          - text: View top content
+      - generic [ref=e1493]:
+        - heading [level=2] [ref=e1494]: Add new skills with these courses
+        - generic [ref=e1495]:
+          - list [ref=e1496]:
+            - listitem [ref=e1497]:
+              - link [ref=e1498] [cursor=pointer]:
+                - /url: https://www.linkedin.com/learning/scalable-data-storage-and-processing-for-ai-workloads?trk=public_profile_recommended-course
+                - generic [ref=e1499]: 1h 30m
+                - heading [level=3] [ref=e1503]: Scalable Data Storage and Processing for AI Workloads
+            - listitem [ref=e1504]:
+              - link [ref=e1505] [cursor=pointer]:
+                - /url: https://www.linkedin.com/learning/hands-on-advanced-sql-server-strategies-and-techniques?trk=public_profile_recommended-course
+                - generic [ref=e1506]: 2h 44m
+                - heading [level=3] [ref=e1510]: "Hands-On Advanced SQL Server: Strategies and Techniques"
+            - listitem [ref=e1511]:
+              - link [ref=e1512] [cursor=pointer]:
+                - /url: https://www.linkedin.com/learning/advanced-data-engineering-with-snowflake?trk=public_profile_recommended-course
+                - generic [ref=e1513]: 2h 19m
+                - heading [level=3] [ref=e1517]: Advanced Data Engineering with Snowflake
+          - link [ref=e1518] [cursor=pointer]:
+            - /url: https://www.linkedin.com/learning/?trk=seo_pp_d_cymbii_more_m015_learning
+            - text: See all courses
+  - contentinfo [aria-hidden] [ref=e1519]:
+    - list [ref=e1520]:
+      - generic [ref=e1521]: LinkedIn
+      - generic [ref=e1523]: © 2026
+      - listitem [ref=e1524]:
+        - link [ref=e1525] [cursor=pointer]:
+          - /url: https://about.linkedin.com?trk=public_profile_v3_desktop_footer-about
+          - text: About
+      - listitem [ref=e1526]:
+        - link [ref=e1527] [cursor=pointer]:
+          - /url: https://www.linkedin.com/accessibility?trk=public_profile_v3_desktop_footer-accessibility
+          - text: Accessibility
+      - listitem [ref=e1528]:
+        - link [ref=e1529] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/user-agreement?trk=public_profile_v3_desktop_footer-user-agreement
+          - text: User Agreement
+      - listitem [ref=e1530]:
+        - link [ref=e1531] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_profile_v3_desktop_footer-privacy-policy
+          - text: Privacy Policy
+      - listitem [ref=e1532]:
+        - link [ref=e1533] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_profile_v3_desktop_footer-cookie-policy
+          - text: Cookie Policy
+      - listitem [ref=e1534]:
+        - link [ref=e1535] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_profile_v3_desktop_footer-copyright-policy
+          - text: Copyright Policy
+      - listitem [ref=e1536]:
+        - link [ref=e1537] [cursor=pointer]:
+          - /url: https://brand.linkedin.com/policies?trk=public_profile_v3_desktop_footer-brand-policy
+          - text: Brand Policy
+      - listitem [ref=e1538]:
+        - link [ref=e1539] [cursor=pointer]:
+          - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_profile_v3_desktop_footer-guest-controls
+          - text: Guest Controls
+      - listitem [ref=e1540]:
+        - link [ref=e1541] [cursor=pointer]:
+          - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_profile_v3_desktop_footer-community-guide
+          - text: Community Guidelines
+      - listitem [ref=e1542]:
+        - button [ref=e1544]: Language
+  - dialog [ref=e1546]:
+    - paragraph [ref=e1549]: LinkedIn
+    - paragraph [ref=e1550]: LinkedIn is better on the app
+    - paragraph [ref=e1551]: Don’t have the app? Get it in the Microsoft Store.
+    - link [ref=e1552] [cursor=pointer]:
+      - /url: ms-windows-store://pdp/?ProductId=9WZDNCRFJ4Q7&mode=mini&cid=guest_desktop_upsell
+      - text: Open the app
+    - button [ref=e1553]
+  - dialog [active] [ref=e1556]:
+    - button "Dismiss" [ref=e1557] [cursor=pointer]
+    - generic [ref=e1562]:
+      - generic [ref=e1563]:
+        - heading "See who in Risa’s network is hiring" [level=2] [ref=e1565]
+        - paragraph [ref=e1567]: Risa can introduce you to 1 people at PT Putera Perdana International
+      - generic [ref=e1569]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=e1570] [cursor=pointer]
+        - paragraph [ref=e1574]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=e1575]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=e1576] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=risaaugusta&trk=public_profile_contextual-sign-in-modal_join-link
+        - paragraph [ref=e1577]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=e1578] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=e1579] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=e1580] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .

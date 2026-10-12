@@ -1,0 +1,173 @@
+- main [ref=e2]:
+  - link "Resume" [ref=e4] [cursor=pointer]:
+    - /url: https://docs.google.com/document/d/1iF1SgyGbqCnEb_FFK9CWiVWShR0wskvD/export?format=pdf
+  - region [ref=e7]:
+    - heading "Risa Augusta" [level=1] [ref=e8]
+    - paragraph [ref=e9]: Software Engineer
+    - img "3D avatar Risa melambaikan tangan dari layar laptop" [ref=e11]
+    - button [ref=e12] [cursor=pointer]:
+      - strong [ref=e13]: I Love Traveling
+    - button [ref=e14] [cursor=pointer]:
+      - strong [ref=e15]: I Create Art
+    - link "Buka portfolio di tab baru" [ref=e16] [cursor=pointer]:
+      - /url: https://drive.google.com/file/d/1tkysibf8uWgKBwur2it6uPvfj4t8q_PW/view?usp=sharing
+      - strong [ref=e17]: Portfolio.
+      - generic [ref=e18]: See here →
+    - button [ref=e19] [cursor=pointer]:
+      - strong [ref=e20]: I Also Write
+    - generic "LinkedIn recommendations" [ref=e21]:
+      - generic [ref=e22]:
+        - article [ref=e23]:
+          - generic [ref=e24]: MM
+          - link "Mahathir Aldiafis Mochammad Digital Transformation Manager · Telkom Indonesia “Risa was one of my mentees at Telkom, and I had the pleasure of working closely with her on the Eventeer project. She demonstrated remarkable adaptability to the work environment and consistently excelled in collaboration, especially in communication. Risa’s ability to implement clean code practices significantly contributed to the project's success and made my work much easier. I highly recommend Risa for her professionalism, technical expertise, and strong teamwork skills—she would be a valuable asset to any team.”" [ref=e25] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e26]: Mahathir Aldiafis Mochammad
+            - generic [ref=e27]: Digital Transformation Manager · Telkom Indonesia
+            - paragraph [ref=e28]: “Risa was one of my mentees at Telkom, and I had the pleasure of working closely with her on the Eventeer project. She demonstrated remarkable adaptability to the work environment and consistently excelled in collaboration, especially in communication. Risa’s ability to implement clean code practices significantly contributed to the project's success and made my work much easier. I highly recommend Risa for her professionalism, technical expertise, and strong teamwork skills—she would be a valuable asset to any team.”
+        - article [ref=e29]:
+          - generic [ref=e30]: DK
+          - link "Dimas Eka Mahendra Karsoma Application Developer · IBM “Good at problem solving, collaborate with others and contribute to a positive work environment.”" [ref=e31] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e32]: Dimas Eka Mahendra Karsoma
+            - generic [ref=e33]: Application Developer · IBM
+            - paragraph [ref=e34]: “Good at problem solving, collaborate with others and contribute to a positive work environment.”
+        - article [ref=e35]:
+          - generic [ref=e36]: MR
+          - link "Muhammad Rayhan Ravianda Software Engineer · Gotrade “Risa is a great work partner, who has great technical and communication skill, a team player, and able to adapt with new technology and tech stacks. Looking forward to work together again and see her on top!”" [ref=e37] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e38]: Muhammad Rayhan Ravianda
+            - generic [ref=e39]: Software Engineer · Gotrade
+            - paragraph [ref=e40]: “Risa is a great work partner, who has great technical and communication skill, a team player, and able to adapt with new technology and tech stacks. Looking forward to work together again and see her on top!”
+        - article [ref=e41]:
+          - generic [ref=e42]: RS
+          - link "Rivaldi Agustinus Nugraha Siringoringo Software Engineering Enthusiast “Skilled developer, supportive colleague, and also a great person to work with.”" [ref=e43] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e44]: Rivaldi Agustinus Nugraha Siringoringo
+            - generic [ref=e45]: Software Engineering Enthusiast
+            - paragraph [ref=e46]: “Skilled developer, supportive colleague, and also a great person to work with.”
+        - article [ref=e47]:
+          - generic [ref=e48]: MD
+          - link "Monica Davita Senior Associate · PwC Indonesia “Risa is a very talented person with an amazing will to learn something new. She could adapt to the new environment quickly and can be thrived in any circumstances. She is really well-known of her advanced skill on Frontend Mobile Development and I am agree about that too. I am looking forward to work with her in the future.”" [ref=e49] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e50]: Monica Davita
+            - generic [ref=e51]: Senior Associate · PwC Indonesia
+            - paragraph [ref=e52]: “Risa is a very talented person with an amazing will to learn something new. She could adapt to the new environment quickly and can be thrived in any circumstances. She is really well-known of her advanced skill on Frontend Mobile Development and I am agree about that too. I am looking forward to work with her in the future.”
+        - article [ref=e53]:
+          - generic [ref=e54]: WP
+          - link "Wahyu Styo Pratama Software Developer “Risa is a great informatics engineer. She has a really wonderful experience in programming skills and team work. She always brings an excellent results in her work.”" [ref=e55] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e56]: Wahyu Styo Pratama
+            - generic [ref=e57]: Software Developer
+            - paragraph [ref=e58]: “Risa is a great informatics engineer. She has a really wonderful experience in programming skills and team work. She always brings an excellent results in her work.”
+        - article [ref=e59]:
+          - generic [ref=e60]: NR
+          - link "Nasywa Rana Product Designer “She is very good at her work and always give the best results with her efforts.”" [ref=e61] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e62]: Nasywa Rana
+            - generic [ref=e63]: Product Designer
+            - paragraph [ref=e64]: “She is very good at her work and always give the best results with her efforts.”
+        - article [ref=e65]:
+          - generic [ref=e66]: PR
+          - link "Putri Audi Rachma Sugiharto Business Analyst · Telkom Sigma “Risa is always striving to reach a goal with a good plan and good preparation with her skill.”" [ref=e67] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e68]: Putri Audi Rachma Sugiharto
+            - generic [ref=e69]: Business Analyst · Telkom Sigma
+            - paragraph [ref=e70]: “Risa is always striving to reach a goal with a good plan and good preparation with her skill.”
+        - article [ref=e71]:
+          - generic [ref=e72]: RB
+          - link "Reza Berlian Web Designer & Developer | Coding Educator “She is so multitalented and so skillful, also always did everything all out.”" [ref=e73] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e74]: Reza Berlian
+            - generic [ref=e75]: Web Designer & Developer | Coding Educator
+            - paragraph [ref=e76]: “She is so multitalented and so skillful, also always did everything all out.”
+        - article [ref=e77]:
+          - generic [ref=e78]: NV
+          - link "Natasya Valencia Frontend Developer “She is skillful in her field, has good teamwork, and try to give her best.”" [ref=e79] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e80]: Natasya Valencia
+            - generic [ref=e81]: Frontend Developer
+            - paragraph [ref=e82]: “She is skillful in her field, has good teamwork, and try to give her best.”
+        - article [ref=e83]:
+          - generic [ref=e84]: FA
+          - link "Faisal Affan Full-Stack Product Engineer “Risa has a good team working and high critical thinking to solve team problem.”" [ref=e85] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e86]: Faisal Affan
+            - generic [ref=e87]: Full-Stack Product Engineer
+            - paragraph [ref=e88]: “Risa has a good team working and high critical thinking to solve team problem.”
+        - article [aria-hidden] [ref=e89]:
+          - generic [ref=e90]: MM
+          - link [ref=e91] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e92]: Mahathir Aldiafis Mochammad
+            - generic [ref=e93]: Digital Transformation Manager · Telkom Indonesia
+            - paragraph [ref=e94]: “Risa was one of my mentees at Telkom, and I had the pleasure of working closely with her on the Eventeer project. She demonstrated remarkable adaptability to the work environment and consistently excelled in collaboration, especially in communication. Risa’s ability to implement clean code practices significantly contributed to the project's success and made my work much easier. I highly recommend Risa for her professionalism, technical expertise, and strong teamwork skills—she would be a valuable asset to any team.”
+        - article [aria-hidden] [ref=e95]:
+          - generic [ref=e96]: DK
+          - link [ref=e97] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e98]: Dimas Eka Mahendra Karsoma
+            - generic [ref=e99]: Application Developer · IBM
+            - paragraph [ref=e100]: “Good at problem solving, collaborate with others and contribute to a positive work environment.”
+        - article [aria-hidden] [ref=e101]:
+          - generic [ref=e102]: MR
+          - link [ref=e103] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e104]: Muhammad Rayhan Ravianda
+            - generic [ref=e105]: Software Engineer · Gotrade
+            - paragraph [ref=e106]: “Risa is a great work partner, who has great technical and communication skill, a team player, and able to adapt with new technology and tech stacks. Looking forward to work together again and see her on top!”
+        - article [aria-hidden] [ref=e107]:
+          - generic [ref=e108]: RS
+          - link [ref=e109] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e110]: Rivaldi Agustinus Nugraha Siringoringo
+            - generic [ref=e111]: Software Engineering Enthusiast
+            - paragraph [ref=e112]: “Skilled developer, supportive colleague, and also a great person to work with.”
+        - article [aria-hidden] [ref=e113]:
+          - generic [ref=e114]: MD
+          - link [ref=e115] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e116]: Monica Davita
+            - generic [ref=e117]: Senior Associate · PwC Indonesia
+            - paragraph [ref=e118]: “Risa is a very talented person with an amazing will to learn something new. She could adapt to the new environment quickly and can be thrived in any circumstances. She is really well-known of her advanced skill on Frontend Mobile Development and I am agree about that too. I am looking forward to work with her in the future.”
+        - article [aria-hidden] [ref=e119]:
+          - generic [ref=e120]: WP
+          - link [ref=e121] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e122]: Wahyu Styo Pratama
+            - generic [ref=e123]: Software Developer
+            - paragraph [ref=e124]: “Risa is a great informatics engineer. She has a really wonderful experience in programming skills and team work. She always brings an excellent results in her work.”
+        - article [aria-hidden] [ref=e125]:
+          - generic [ref=e126]: NR
+          - link [ref=e127] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e128]: Nasywa Rana
+            - generic [ref=e129]: Product Designer
+            - paragraph [ref=e130]: “She is very good at her work and always give the best results with her efforts.”
+        - article [aria-hidden] [ref=e131]:
+          - generic [ref=e132]: PR
+          - link [ref=e133] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e134]: Putri Audi Rachma Sugiharto
+            - generic [ref=e135]: Business Analyst · Telkom Sigma
+            - paragraph [ref=e136]: “Risa is always striving to reach a goal with a good plan and good preparation with her skill.”
+        - article [aria-hidden] [ref=e137]:
+          - generic [ref=e138]: RB
+          - link [ref=e139] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e140]: Reza Berlian
+            - generic [ref=e141]: Web Designer & Developer | Coding Educator
+            - paragraph [ref=e142]: “She is so multitalented and so skillful, also always did everything all out.”
+        - article [aria-hidden] [ref=e143]:
+          - generic [ref=e144]: NV
+          - link [ref=e145] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e146]: Natasya Valencia
+            - generic [ref=e147]: Frontend Developer
+            - paragraph [ref=e148]: “She is skillful in her field, has good teamwork, and try to give her best.”
+        - article [aria-hidden] [ref=e149]:
+          - generic [ref=e150]: FA
+          - link [ref=e151] [cursor=pointer]:
+            - /url: https://www.linkedin.com/in/risaaugusta/
+            - strong [ref=e152]: Faisal Affan
+            - generic [ref=e153]: Full-Stack Product Engineer
+            - paragraph [ref=e154]: “Risa has a good team working and high critical thinking to solve team problem.”

@@ -1,0 +1,37 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - link "Resume" [ref=e4] [cursor=pointer]:
+      - /url: https://docs.google.com/document/d/1iF1SgyGbqCnEb_FFK9CWiVWShR0wskvD/export?format=pdf
+    - region [ref=e7]:
+      - heading "Risa Augusta" [level=1] [ref=e8]
+      - paragraph [ref=e9]: Software Engineer
+      - img "3D avatar Risa melambaikan tangan dari layar laptop" [ref=e11]
+      - generic [ref=e12]:
+        - strong [ref=e13]: 5+ Years
+        - generic [ref=e14]: Experience
+      - generic [ref=e15]:
+        - strong [ref=e16]: 24+ Projects
+        - generic [ref=e17]: Completed
+      - generic "LinkedIn recommendations" [ref=e18]:
+        - generic [ref=e19]:
+          - article [ref=e20]:
+            - generic [ref=e21]: MM
+            - generic [ref=e22]:
+              - strong [ref=e23]: Mahathir Aldiafis Mochammad
+              - paragraph [ref=e24]: “Risa’s ability to implement clean code practices significantly contributed to the project's success and made my work much easier.”
+          - article [ref=e25]:
+            - generic [ref=e26]: DK
+            - generic [ref=e27]:
+              - strong [ref=e28]: Dimas Eka Mahendra Karsoma
+              - paragraph [ref=e29]: “Good at problem solving, collaborate with others and contribute to a positive work environment.”
+          - article [aria-hidden] [ref=e30]:
+            - generic [ref=e31]: MM
+            - generic [ref=e32]:
+              - strong [ref=e33]: Mahathir Aldiafis Mochammad
+              - paragraph [ref=e34]: “Risa’s ability to implement clean code practices significantly contributed to the project's success and made my work much easier.”
+          - article [aria-hidden] [ref=e35]:
+            - generic [ref=e36]: DK
+            - generic [ref=e37]:
+              - strong [ref=e38]: Dimas Eka Mahendra Karsoma
+              - paragraph [ref=e39]: “Good at problem solving, collaborate with others and contribute to a positive work environment.”
+  - alert [ref=e40]
