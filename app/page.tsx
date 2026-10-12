@@ -1,4 +1,7 @@
+"use client";
+
 import Image from "next/image";
+import { useRef } from "react";
 
 const recommendations = [
   {
@@ -29,6 +32,7 @@ const recommendations = [
     initials: "RS",
     name: "Rivaldi Agustinus Nugraha Siringoringo",
     role: "Software Engineering Enthusiast",
+    company: "PT Mitra Berlian Unggas (MBU Group)",
     quote:
       "Skilled developer, supportive colleague, and also a great person to work with.",
   },
@@ -51,6 +55,7 @@ const recommendations = [
     initials: "NR",
     name: "Nasywa Rana",
     role: "Product Designer",
+    company: "Kitalulus",
     quote:
       "She is very good at her work and always give the best results with her efforts.",
   },
@@ -66,6 +71,7 @@ const recommendations = [
     initials: "RB",
     name: "Reza Berlian",
     role: "Web Designer & Developer | Coding Educator",
+    company: "Inntexia Academy",
     quote:
       "She is so multitalented and so skillful, also always did everything all out.",
   },
@@ -73,13 +79,15 @@ const recommendations = [
     initials: "NV",
     name: "Natasya Valencia",
     role: "Frontend Developer",
+    company: "Vlink",
     quote:
       "She is skillful in her field, has good teamwork, and try to give her best.",
   },
   {
     initials: "FA",
     name: "Faisal Affan",
-    role: "Full-Stack Product Engineer",
+    role: "Solution Architect Lead",
+    company: "Bank Mandiri",
     quote:
       "Risa has a good team working and high critical thinking to solve team problem.",
   },
@@ -93,16 +101,60 @@ function DownloadIcon() {
   );
 }
 
+function GlobeIcon() {
+  return (
+    <svg aria-hidden="true" viewBox="0 0 24 24" fill="none">
+      <circle cx="12" cy="12" r="9" />
+      <path d="M3 12h18M12 3c2.2 2.5 3.3 5.5 3.3 9S14.2 18.5 12 21M12 3C9.8 5.5 8.7 8.5 8.7 12S9.8 18.5 12 21" />
+    </svg>
+  );
+}
+
 export default function Home() {
+  const audioContextRef = useRef<AudioContext | null>(null);
+
+  const playHoverPop = async () => {
+    const context = audioContextRef.current ?? new AudioContext();
+    audioContextRef.current = context;
+
+    if (context.state === "suspended") {
+      await context.resume();
+    }
+
+    const now = context.currentTime;
+
+    const playTone = (start: number, from: number, to: number, volume: number) => {
+      const oscillator = context.createOscillator();
+      const gain = context.createGain();
+
+      oscillator.type = "triangle";
+      oscillator.frequency.setValueAtTime(from, start);
+      oscillator.frequency.exponentialRampToValueAtTime(to, start + 0.07);
+      gain.gain.setValueAtTime(0.0001, start);
+      gain.gain.exponentialRampToValueAtTime(volume, start + 0.008);
+      gain.gain.exponentialRampToValueAtTime(0.0001, start + 0.075);
+      oscillator.connect(gain).connect(context.destination);
+      oscillator.start(start);
+      oscillator.stop(start + 0.08);
+    };
+
+    playTone(now, 480, 760, 0.2);
+    playTone(now + 0.065, 720, 1120, 0.24);
+  };
+
   return (
     <main className="portfolio" id="home">
       <header className="site-header">
-        <a
-          className="resume-link"
-          href="https://docs.google.com/document/d/1iF1SgyGbqCnEb_FFK9CWiVWShR0wskvD/export?format=pdf"
-        >
-          Resume <DownloadIcon />
-        </a>
+        <div className="header-info">
+          <span className="location"><GlobeIcon /> Jakarta, ID</span>
+          <span aria-hidden="true">|</span>
+          <a
+            className="resume-link"
+            href="https://docs.google.com/document/d/1iF1SgyGbqCnEb_FFK9CWiVWShR0wskvD/export?format=pdf"
+          >
+            Resume <DownloadIcon />
+          </a>
+        </div>
       </header>
 
       <section className="hero" aria-labelledby="hero-title">
@@ -124,6 +176,7 @@ export default function Home() {
           className="glass-card floating-card glass-card--travel"
           type="button"
           aria-label="I love traveling"
+          onPointerEnter={playHoverPop}
         >
           <strong>I Love Traveling</strong>
           <span>See here →</span>
@@ -135,6 +188,7 @@ export default function Home() {
           target="_blank"
           rel="noreferrer"
           aria-label="Lihat karya seni di Instagram"
+          onPointerEnter={playHoverPop}
         >
           <strong>I Create Art</strong>
           <span>See here →</span>
@@ -146,6 +200,7 @@ export default function Home() {
           target="_blank"
           rel="noreferrer"
           aria-label="Buka portfolio di tab baru"
+          onPointerEnter={playHoverPop}
         >
           <strong>Portfolio.</strong>
           <span>See here →</span>
@@ -157,6 +212,7 @@ export default function Home() {
           target="_blank"
           rel="noreferrer"
           aria-label="Baca tulisan di Medium"
+          onPointerEnter={playHoverPop}
         >
           <strong>Also Writing!</strong>
           <span>See here →</span>
@@ -192,6 +248,8 @@ export default function Home() {
         </div>
 
       </section>
+
+      <footer className="site-footer">© 2026 Risa Augusta Murti</footer>
     </main>
   );
 }
