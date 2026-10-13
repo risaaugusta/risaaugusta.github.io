@@ -11,15 +11,15 @@
     - link "Lihat karya seni di Instagram, buka tab baru" [ref=e15] [cursor=pointer]:
       - /url: https://www.instagram.com/risartwork.psd/
       - strong [ref=e16]: I Create Art
-      - generic [ref=e17]: See here · Instagram ↗
+      - generic [ref=e17]: Explore more · Instagram ↗
     - link "Lihat portfolio di Google Drive, buka tab baru" [ref=e18] [cursor=pointer]:
       - /url: https://drive.google.com/file/d/1tkysibf8uWgKBwur2it6uPvfj4t8q_PW/view?usp=sharing
       - strong [ref=e19]: Portfolio.
-      - generic [ref=e20]: See here · Drive ↗
+      - generic [ref=e20]: Explore more · Drive ↗
     - link "Baca tulisan di Medium, buka tab baru" [ref=e21] [cursor=pointer]:
       - /url: https://risaaugusta.medium.com/
       - strong [ref=e22]: Also Writing!
-      - generic [ref=e23]: See here · Medium ↗
+      - generic [ref=e23]: Explore more · Medium ↗
     - generic "LinkedIn recommendations" [ref=e24]:
       - generic [ref=e25]:
         - article [ref=e26]:

@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import { useRef } from "react";
 
 const recommendations = [
@@ -113,12 +114,12 @@ function GlobeIcon() {
 export default function Home() {
   const audioContextRef = useRef<AudioContext | null>(null);
 
-  const playHoverPop = async () => {
+  const playHoverPop = () => {
     const context = audioContextRef.current ?? new AudioContext();
     audioContextRef.current = context;
 
     if (context.state === "suspended") {
-      await context.resume();
+      void context.resume();
     }
 
     const now = context.currentTime;
@@ -172,15 +173,15 @@ export default function Home() {
           />
         </div>
 
-        <button
+        <Link
           className="glass-card floating-card glass-card--travel"
-          type="button"
+          href="/travel"
           aria-label="I love traveling"
           onPointerEnter={playHoverPop}
         >
           <strong>I Love Traveling</strong>
-          <span>See here →</span>
-        </button>
+          <span>Explore more →</span>
+        </Link>
 
         <a
           className="glass-card floating-card glass-card--art"
@@ -191,7 +192,7 @@ export default function Home() {
           onPointerEnter={playHoverPop}
         >
           <strong>I Create Art</strong>
-          <span>See here →</span>
+          <span>Explore more →</span>
         </a>
 
         <a
@@ -203,7 +204,7 @@ export default function Home() {
           onPointerEnter={playHoverPop}
         >
           <strong>Portfolio.</strong>
-          <span>See here →</span>
+          <span>Explore more →</span>
         </a>
 
         <a
@@ -215,7 +216,7 @@ export default function Home() {
           onPointerEnter={playHoverPop}
         >
           <strong>Also Writing!</strong>
-          <span>See here →</span>
+          <span>Explore more →</span>
         </a>
 
         <div className="recommendations" aria-label="LinkedIn recommendations">

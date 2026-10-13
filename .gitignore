@@ -13,6 +13,9 @@
 # misc
 .DS_Store
 *.pem
+/output/
+/graphify-out/
+/.playwright-cli/
 
 # debug
 npm-debug.log*

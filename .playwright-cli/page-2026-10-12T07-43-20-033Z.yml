@@ -12,7 +12,7 @@
       - link "Buka portfolio di tab baru" [ref=f1e15] [cursor=pointer]:
         - /url: https://drive.google.com/file/d/1tkysibf8uWgKBwur2it6uPvfj4t8q_PW/view?usp=sharing
         - strong [ref=f1e16]: Portfolio.
-        - generic [ref=f1e17]: See here
+        - generic [ref=f1e17]: Explore more
       - generic "LinkedIn recommendations" [ref=f1e18]:
         - generic [ref=f1e19]:
           - article [ref=f1e20]:
