@@ -37,7 +37,6 @@ const destinations = [
     lat: 39.9334,
     lng: 32.8597
   },
-  { city: "Izmir", country: "Turkey", lat: 38.4237, lng: 27.1428 },
   {
     city: "Jeddah",
     country: "Saudi Arabia",
